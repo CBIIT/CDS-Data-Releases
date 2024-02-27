@@ -8,6 +8,8 @@ This repository is designated for managing the release notes of the CDS Data. It
 | CDS-STAGE   | stage 🔒      |
 | CDS-QA      | qa 🔒         |
 | CDS-DEV     | develop 🔒    |
+| CDS-QA2      | qa2 🔒       |
+| CDS-DEV2     | develop2 🔒  |
 
 > ❗ **NOTE:** Branches are protected. Direct commits cannot be made to any of these branches.
 
