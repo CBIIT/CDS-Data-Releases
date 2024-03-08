@@ -2,6 +2,72 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "v8.0",
+        "versionNumber": "v8.0",
+        "releaseDate": "March 20, 2024",
+        "subHeading": "Studies",
+        "heading": "Data Release 8.0",
+        "content": [
+          {
+            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v6.p1",
+            "list": ["105 Participants", "3,152 Files"]
+          },
+          {
+            "paragraph": "CCDI: CHoP Imaging – phs002517.v1.p1",
+            "list": ["218 Participants", "1,850 Files"]
+          },
+          {
+            "paragraph": "CCDI: UCSF phs002430.v1.p1",
+            "list": ["231 Participants", "2,649 Files"]
+          },
+          {
+            "paragraph": "DCCPS phs001554.v1.p1 – study reload",
+            "list": ["2,892 Participants", "5,784 Files"]
+          },
+          {
+            "paragraph": "LCCC phs001713.v1.p1 - patch",
+            "list": ["0 Participants", "3 Files"]
+          },
+          {
+            "paragraph": "HTAN Imaging",
+            "list": ["710 Participants", "1,860 Files"]
+          },
+          {
+            "paragraph": "PLCO Pilot phs002011.v1.p1",
+            "list": ["0 Participants", "32 Files"]
+          }
+        ]
+      },      
+      {
+        "id": "v7.0",
+        "versionNumber": "v7.0",
+        "releaseDate": "February 27, 2024",
+        "subHeading": "Studies",
+        "heading": "Data Release 7.0",
+        "content": [
+          {
+            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v5.p1",
+            "list": ["5 Participants", "3,322 Files"]
+          },
+          {
+            "paragraph": "CPTAC phs001287.v14.p6 – Pan cancer files upload",
+            "list": ["3 Participants", "992 Files"]
+          },
+          {
+            "paragraph": "DCCPS phs002050.v2.p1 – study reload",
+            "list": ["2,528 Participants", "5,056 Files"]
+          },
+          {
+            "paragraph": "DCCPS phs001787.v1.p1 – study reload",
+            "list": ["51 Participants", "318 Files"]
+          },
+          {
+            "paragraph": "DCCPS phs001819.v1.p1",
+            "list": ["39 Participants", "39 Files"]
+          }
+        ]
+      },
+      {
         "id": "v6.0",
         "versionNumber": "v6.0",
         "releaseDate": "January 16, 2024",
