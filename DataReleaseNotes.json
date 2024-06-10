@@ -2,6 +2,35 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "v10.0",
+        "versionNumber": "v10.0",
+        "releaseDate": "June 25, 2024",
+        "subHeading": "Studies",
+        "heading": "Data Release 10.0",
+        "content": [
+          {
+            "paragraph": "Childhood Cancer Data Initiative (CCDI): Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR - phs002377.v1.p1",
+            "list": ["835 Participants", "3 Files"]
+          },
+          {
+            "paragraph": "Childhood Cancer Data Initiative (CCDI): OncoKids - NGS Panel for Pediatric Malignancies – phs002518.v1.p1",
+            "list": ["1,039 Participants", "2,246 Files"]
+          },
+          {
+            "paragraph": "Childhood Cancer Data Initiative (CCDI): CCDI Pediatric In Vivo Testing Program - Leukemia - phs003164.v1.p1",
+            "list": ["40 Participants", "2,277 Files"]
+          },
+          {
+            "paragraph": "Childhood Cancer Data Initiative (CCDI): Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers - phs002431.v1.p1",
+            "list": ["612 Participants", "13,841 Files"]
+          },
+          {
+            "paragraph": "DCCPS: Whole Genome Sequencing to Discover Familial Myeloma Risk Genes phs001819.v2.p1 – patch",
+            "list": ["5 Participants", "5 Files"]
+          }
+        ]
+      },      
+      {
         "id": "v9.0",
         "versionNumber": "v9.0",
         "releaseDate": "May 8, 2024",
