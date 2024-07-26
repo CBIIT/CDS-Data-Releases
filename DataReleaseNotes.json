@@ -2,6 +2,23 @@
     "HEADING": "Release Notes",
     "VERSIONS": [    
       {
+        "id": "v12.0",
+        "versionNumber": "v12.0",
+        "releaseDate": "August 13, 2024",
+        "subHeading": "Studies",
+        "heading": "Data Release 12.0",
+        "content": [
+          {
+            "paragraph": "Childhood Cancer Data Initiative (CCDI): Molecular Characterization Initiative - Genomic - phs002790.v7.p1",
+            "list": ["1,100 Participants", "47,290 Files", "5,534 Samples"]
+          },
+          {
+            "paragraph": "Human Tumor Atlas Network (HTAN) - Genomic legacy study- phs002371.v1.p1",
+            "list": ["3,153 Files", "836 Samples"]
+          }
+        ]
+      },      
+      {
         "id": "v11.0",
         "versionNumber": "v11.0",
         "releaseDate": "July 9, 2024",
