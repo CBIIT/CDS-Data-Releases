@@ -1,262 +1,361 @@
 {
-    "HEADING": "Release Notes",
-    "VERSIONS": [
-      {
-        "id": "v8.0",
-        "versionNumber": "v8.0",
-        "releaseDate": "March 20, 2024",
-        "subHeading": "Studies",
-        "heading": "Data Release 8.0",
-        "content": [
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v6.p1",
-            "list": ["105 Participants", "3,152 Files"]
-          },
-          {
-            "paragraph": "CCDI: CHoP Imaging – phs002517.v1.p1",
-            "list": ["218 Participants", "1,850 Files"]
-          },
-          {
-            "paragraph": "CCDI: UCSF phs002430.v1.p1",
-            "list": ["231 Participants", "2,649 Files"]
-          },
-          {
-            "paragraph": "DCCPS phs001554.v1.p1 – study reload",
-            "list": ["2,892 Participants", "5,784 Files"]
-          },
-          {
-            "paragraph": "LCCC phs001713.v1.p1 - patch",
-            "list": ["0 Participants", "3 Files"]
-          },
-          {
-            "paragraph": "HTAN Imaging",
-            "list": ["710 Participants", "1,860 Files"]
-          }
-        ]
-      },      
-      {
-        "id": "v7.0",
-        "versionNumber": "v7.0",
-        "releaseDate": "February 27, 2024",
-        "subHeading": "Studies",
-        "heading": "Data Release 7.0",
-        "content": [
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v5.p1",
-            "list": ["5 Participants", "3,322 Files"]
-          },
-          {
-            "paragraph": "CPTAC phs001287.v14.p6 – Pan cancer files upload",
-            "list": ["3 Participants", "992 Files"]
-          },
-          {
-            "paragraph": "DCCPS phs002050.v2.p1 – study reload",
-            "list": ["2,528 Participants", "5,056 Files"]
-          },
-          {
-            "paragraph": "DCCPS phs001787.v1.p1 – study reload",
-            "list": ["51 Participants", "318 Files"]
-          },
-          {
-            "paragraph": "DCCPS phs001819.v1.p1",
-            "list": ["39 Participants", "39 Files"]
-          }
-        ]
-      },
-      {
-        "id": "v6.0",
-        "versionNumber": "v6.0",
-        "releaseDate": "January 16, 2024",
-        "subHeading": "Studies",
-        "heading": "Data Release 6.0",
-        "content": [
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v5.p1",
-            "list": ["93 Participants", "225 Files"]
-          },
-          {
-            "paragraph": "GW GDIT phs003155.v1.p1",
-            "list": ["1,342 Participants", "1,342 Files"]
-          },
-          {
-            "paragraph": "PDXNet – PDXNet phs002432.1.p1",
-            "list": ["46 Participants", "370 Files"]
-          },
-          {
-            "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data (2 files patch) - phs002371.v3.p1",
-            "list": ["1 Participants", "2 Files"]
-          }
-        ]
-      },      
-      {
-        "id": "v5.0",
-        "versionNumber": "v5.0",
-        "releaseDate": "Nov 07, 2023",
-        "subHeading": "Studies",
-        "heading": "Data Release 5.0",
-        "content": [
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (June submission) - phs002790.v3.p1",
-            "list": ["149 Participants", "2,717 Files"]
-          },
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (July submission) - phs002790.v3.p1",
-            "list": ["385 Participants", "977 Files"]
-          },
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (August submission) - phs002790.v3.p1",
-            "list": ["104 Participants", "9,444 Files"]
-          },
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (September submission) - phs002790.v4.p1",
-            "list": ["195 Participants", "4,105 Files"]
-          },
-          {
-            "paragraph": "CCDI: MSKCC phs002620.v1.p1",
-            "list": ["114 Participants", "650 Files"]
-          },
-          {
-            "paragraph": "CPTAC: CPTAC: CPTAC Proteogenomic Study (snATAC-seq GBM study) - phs001287.v17.p6",
-            "list": ["18 Participants", "69 Files"]
-          },
-          {
-            "paragraph": "DCCPS CIDR: RESPOND Project 2- phs002637.v1.p1",
-            "list": ["12,171 Participants", "24,342 Files"]
-          },
-          {
-            "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data (Patch) - phs002371.v3.p1",
-            "list": ["44 Participants", "380 Files"]
-          }
-        ]
-      },
-      {
-        "id": "v4.0",
-        "versionNumber": "v4.0",
-        "releaseDate": "Sept 26, 2023",
-        "subHeading": "Studies",
-        "heading": "Data Release 4.0",
-        "content": [
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (June submission) - phs002790.v3.p1",
-            "list": ["170 Participants", "3,496 Files"]
-          },
-          {
-            "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (July submission) - phs002790.v3.p1",
-            "list": ["184 Participants", "2,904 Files"]
-          },
-          {
-            "paragraph": "CCDI: NCI CCSG CCDI Supplement Additional Genomic Submission - phs002599.v1.p1",
-            "list": ["104 Participants", "313 Files"]
-          },
-          {
-            "paragraph": "LCCC 1108: Development of a Tumor Molecular Analyses Program and Its Use to Support Treatment Decisions (UNCseqTM) - phs001713.v1.p1",
-            "list": ["1 Participants", "1 Files"]
-          },
-          {
-            "paragraph": "CPTAC: CPTAC Proteogenomic Study - phs001287.v14.p6",
-            "list": ["1,069 Participants", "1,069 Files", "Publication: https://pubmed.ncbi.nlm.nih.gov/37582339/"]
-          },
-          {
-            "paragraph": "CPTAC: CPTAC Proteogenomic Study - phs001287.v16.p6",
-            "list": ["23 Participants", "105 Files", "Publication: https://www.nature.com/articles/s41467-023-37211-7"]
-          },
-          {
-            "paragraph": "DCCPS CIDR: The Genetic Basis of Aggressive Prostate Cancer: The Role of Rare Variation - phs001524.v2.p2",
-            "list": ["13,891 Participants", "27,782 Files"]
-          }
-        ]
-      },
-      {
-        "id": "v3.0",
-        "versionNumber": "v3.0",
-        "releaseDate": "May 18, 2023",
-        "subHeading": "Studies",
-        "heading": "Data Release 3.0",
-        "content": [
-          {
-            "paragraph": "LCCC 1108: Development of a Tumor Molecular Analyses Program and Its Use to Support Treatment Decisions (UNCseqTM) - phs001713.v1.p1",
-            "list": ["2,074 Participants", "11,340 Files"]
-          },
-          {
-            "paragraph": "DCCPS CIDR: The Genetic Basis of Aggressive Prostate Cancer: The Role of Rare Variation - phs001524.v1.p1",
-            "list": ["13,891 Participants", "27,782 Files"]
-          },
-          {
-            "paragraph": "DCCPS:Discovery of Colorectal Cancer Susceptibility Genes in High-Risk Families – phs001787.v1.p1",
-            "list": ["51 Participants", "318 Files"]
-          },
-          {
-            "paragraph": "PDXNet: Washington University PDX Development and Trial Center -phs002305.v1.p",
-            "list": ["110 Participants", "990 Files"]
-          },
-          {
-            "paragraph": "CCDI: Molecular Characterization Initiative – phs002790.v2.p1",
-            "list": ["108 Participants", "1,987 Files"]
-          }
-        ]
-      },
-      {
-        "id": "v2.0",
-        "versionNumber": "v2.0",
-        "releaseDate": "April 17, 2023",
-        "subHeading": "Studies",
-        "heading": "Data Release 2.0",
-        "content": [
-          {
-            "paragraph": "CCDI: UCSF Database for the advancement of JMML – Integration of metadata with “Omic” Data - phs002504.v1.p1",
-            "list": ["1,015 Participants", "14,291 Files"]
-          },
-          {
-            "paragraph": "Childhood Cancer Data Initiative (CCDI): Free the Data: Open Sharing of Comprehensive Genomic \nChildhood Cancer Datasets (Kansas) - phs002529.v1.p1",
-            "list": ["193 Participants", "5,374 Files"]
-          },
-          {
-            "paragraph": "DCCPS CIDR: Discovery, Biology, and Risk of Inherited Variants in Glioma sample – phs002250.v2.p1",
-            "list": ["146 Participants", "292 Files"]
-          },
-          {
-            "paragraph": "DCCPS:Discovery of Colorectal Cancer Susceptibility Genes in High-Risk Families – phs001787.v1.p1",
-            "list": ["51 Participants", "318 Files"]
-          },
-          {
-            "paragraph": "DCCPS: Detection of Colorectal Cancer Susceptibility Loci Using Genome-Wide Sequencing – phs001554.v1.p1",
-            "list": ["2,892 Participants", "5,784 Files"]
-          },
-          {
-            "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data - phs002371.v2.p1 – phs002371.v3.p1",
-            "list": ["660 Participants", "3,781 Files"]
-          },
-          {
-            "paragraph": "PDXNet: University of Texas PDX Development and Trial Center Grant – phs001980.v2.p1",
-            "list": ["36 Participants", "98 Files"]
-          }
-        ]
-      },
-      {
-        "id": "v1.0",
-        "versionNumber": "v1.0",
-        "releaseDate": "February 22, 2023",
-        "subHeading": "Studies",
-        "heading": "Data Release 1.0",
-        "content": [
-          {
-            "paragraph": "DCCPS GECCO OICR: Molecular Pathological Epidemiology of Cancer - phs002050.v2.p",
-            "list": ["2,528 Participants", "5,056 Files"]
-          },
-          {
-            "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data - phs002371.v2.p1",
-            "list": ["270 Participants", "14,808 Files"]
-          },
-          {
-            "paragraph": "CCDI: Molecular Characterization Initiative - phs002790.v1.p1",
-            "list": ["526 Participants", "9,763 Files"]
-          },
-          {
-            "paragraph": "CCDI: UCSF Database for the advancement of JMML – Integration of metadata with “Omic” Data - phs002504.v1.p1",
-            "list": ["188 Participants", "935 Files"]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "HEADING": "Release Notes",
+  "VERSIONS": [    
+    {
+      "id": "v12.0",
+      "versionNumber": "v12.0",
+      "releaseDate": "August 13, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 12.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Molecular Characterization Initiative - Genomic - phs002790.v7.p1",
+          "list": ["1,100 Participants", "47,290 Files", "5,534 Samples"]
+        },
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) - Genomic legacy study- phs002371.v1.p1",
+          "list": ["3,153 Files", "836 Samples"]
+        }
+      ]
+    },      
+    {
+      "id": "v11.0",
+      "versionNumber": "v11.0",
+      "releaseDate": "July 9, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 11.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Identification and Targeting of Treatment Resistant Progenitor Populations in T-cell Acute Lymphoblastic Leukemia - phs003432.v1.p1",
+          "list": ["43 Participants", "1,421 Files"]
+        },
+        {
+          "paragraph": "CPTAC Proteogenomic Study - GBMconfirmatory - phs001287.v17.p6",
+          "list": ["10 Participants", "87 Files"]
+        },
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) - Genomic - phs002371.v6.p1",
+          "list": ["198 Participants", "5,621 Files"]
+        }
+      ]
+    },      
+    {
+      "id": "v10.0",
+      "versionNumber": "v10.0",
+      "releaseDate": "June 25, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 10.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR - phs002677.v1.p1",
+          "list": ["835 Participants", "3 Files"]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): OncoKids - NGS Panel for Pediatric Malignancies – phs002518.v1.p1",
+          "list": ["1,039 Participants", "2,246 Files"]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): CCDI Pediatric In Vivo Testing Program - Leukemia - phs003164.v1.p1",
+          "list": ["40 Participants", "2,277 Files"]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers - phs002431.v1.p1",
+          "list": ["612 Participants", "13,841 Files"]
+        },
+        {
+          "paragraph": "DCCPS: Whole Genome Sequencing to Discover Familial Myeloma Risk Genes phs001819.v2.p1 – patch",
+          "list": ["5 Participants", "5 Files"]
+        }
+      ]
+    },      
+    {
+      "id": "v9.0",
+      "versionNumber": "v9.0",
+      "releaseDate": "May 8, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 9.0",
+      "content": [
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v6.p1",
+          "list": ["194 Participants", "6,026 Files"]
+        },
+        {
+          "paragraph": "CCDI: PPTC – phs001437.v2.p1",
+          "list": ["266 Participants", "6,688 Files"]
+        },
+        {
+          "paragraph": "CCDI: UCSF phs002430.v1.p1 – imaging data",
+          "list": ["155 Participants", "215 Files"]
+        },
+        {
+          "paragraph": "DCCPS phs001819.v1.p1 – update",
+          "list": ["34 Participants", "34 Files"]
+        },
+        {
+          "paragraph": "PDXNet phs002479.v1.p1",
+          "list": ["37 Participants", "279 Files"]
+        },
+        {
+          "paragraph": "HTAN phs002371.v5.p1",
+          "list": ["869 Participants", "5,823 Files"]
+        }
+      ]
+    },
+    {
+      "id": "v8.0",
+      "versionNumber": "v8.0",
+      "releaseDate": "March 20, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 8.0",
+      "content": [
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v6.p1",
+          "list": ["105 Participants", "3,152 Files"]
+        },
+        {
+          "paragraph": "CCDI: CHoP Imaging – phs002517.v1.p1",
+          "list": ["218 Participants", "1,850 Files"]
+        },
+        {
+          "paragraph": "CCDI: UCSF phs002430.v1.p1",
+          "list": ["231 Participants", "2,649 Files"]
+        },
+        {
+          "paragraph": "DCCPS phs001554.v1.p1 – study reload",
+          "list": ["2,892 Participants", "5,784 Files"]
+        },
+        {
+          "paragraph": "LCCC phs001713.v1.p1 - patch",
+          "list": ["0 Participants", "3 Files"]
+        },
+        {
+          "paragraph": "HTAN Imaging",
+          "list": ["710 Participants", "1,860 Files"]
+        }
+      ]
+    },      
+    {
+      "id": "v7.0",
+      "versionNumber": "v7.0",
+      "releaseDate": "February 27, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 7.0",
+      "content": [
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v5.p1",
+          "list": ["5 Participants", "3,322 Files"]
+        },
+        {
+          "paragraph": "CPTAC phs001287.v14.p6 – Pan cancer files upload",
+          "list": ["3 Participants", "992 Files"]
+        },
+        {
+          "paragraph": "DCCPS phs002050.v2.p1 – study reload",
+          "list": ["2,528 Participants", "5,056 Files"]
+        },
+        {
+          "paragraph": "DCCPS phs001787.v1.p1 – study reload",
+          "list": ["51 Participants", "318 Files"]
+        },
+        {
+          "paragraph": "DCCPS phs001819.v1.p1",
+          "list": ["39 Participants", "39 Files"]
+        }
+      ]
+    },
+    {
+      "id": "v6.0",
+      "versionNumber": "v6.0",
+      "releaseDate": "January 16, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 6.0",
+      "content": [
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative - phs002790.v5.p1",
+          "list": ["93 Participants", "225 Files"]
+        },
+        {
+          "paragraph": "GW GDIT phs003155.v1.p1",
+          "list": ["1,342 Participants", "1,342 Files"]
+        },
+        {
+          "paragraph": "PDXNet – PDXNet phs002432.1.p1",
+          "list": ["46 Participants", "370 Files"]
+        },
+        {
+          "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data (2 files patch) - phs002371.v3.p1",
+          "list": ["1 Participants", "2 Files"]
+        }
+      ]
+    },      
+    {
+      "id": "v5.0",
+      "versionNumber": "v5.0",
+      "releaseDate": "Nov 07, 2023",
+      "subHeading": "Studies",
+      "heading": "Data Release 5.0",
+      "content": [
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (June submission) - phs002790.v3.p1",
+          "list": ["149 Participants", "2,717 Files"]
+        },
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (July submission) - phs002790.v3.p1",
+          "list": ["385 Participants", "977 Files"]
+        },
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (August submission) - phs002790.v3.p1",
+          "list": ["104 Participants", "9,444 Files"]
+        },
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (September submission) - phs002790.v4.p1",
+          "list": ["195 Participants", "4,105 Files"]
+        },
+        {
+          "paragraph": "CCDI: MSKCC phs002620.v1.p1",
+          "list": ["114 Participants", "650 Files"]
+        },
+        {
+          "paragraph": "CPTAC: CPTAC: CPTAC Proteogenomic Study (snATAC-seq GBM study) - phs001287.v17.p6",
+          "list": ["18 Participants", "69 Files"]
+        },
+        {
+          "paragraph": "DCCPS CIDR: RESPOND Project 2- phs002637.v1.p1",
+          "list": ["12,171 Participants", "24,342 Files"]
+        },
+        {
+          "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data (Patch) - phs002371.v3.p1",
+          "list": ["44 Participants", "380 Files"]
+        }
+      ]
+    },
+    {
+      "id": "v4.0",
+      "versionNumber": "v4.0",
+      "releaseDate": "Sept 26, 2023",
+      "subHeading": "Studies",
+      "heading": "Data Release 4.0",
+      "content": [
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (June submission) - phs002790.v3.p1",
+          "list": ["170 Participants", "3,496 Files"]
+        },
+        {
+          "paragraph": "CCDI: IGM/MCI - Molecular Characterization Initiative – (July submission) - phs002790.v3.p1",
+          "list": ["184 Participants", "2,904 Files"]
+        },
+        {
+          "paragraph": "CCDI: NCI CCSG CCDI Supplement Additional Genomic Submission - phs002599.v1.p1",
+          "list": ["104 Participants", "313 Files"]
+        },
+        {
+          "paragraph": "LCCC 1108: Development of a Tumor Molecular Analyses Program and Its Use to Support Treatment Decisions (UNCseqTM) - phs001713.v1.p1",
+          "list": ["1 Participants", "1 Files"]
+        },
+        {
+          "paragraph": "CPTAC: CPTAC Proteogenomic Study - phs001287.v14.p6",
+          "list": ["1,069 Participants", "1,069 Files", "Publication: https://pubmed.ncbi.nlm.nih.gov/37582339/"]
+        },
+        {
+          "paragraph": "CPTAC: CPTAC Proteogenomic Study - phs001287.v16.p6",
+          "list": ["23 Participants", "105 Files", "Publication: https://www.nature.com/articles/s41467-023-37211-7"]
+        },
+        {
+          "paragraph": "DCCPS CIDR: The Genetic Basis of Aggressive Prostate Cancer: The Role of Rare Variation - phs001524.v2.p2",
+          "list": ["13,891 Participants", "27,782 Files"]
+        }
+      ]
+    },
+    {
+      "id": "v3.0",
+      "versionNumber": "v3.0",
+      "releaseDate": "May 18, 2023",
+      "subHeading": "Studies",
+      "heading": "Data Release 3.0",
+      "content": [
+        {
+          "paragraph": "LCCC 1108: Development of a Tumor Molecular Analyses Program and Its Use to Support Treatment Decisions (UNCseqTM) - phs001713.v1.p1",
+          "list": ["2,074 Participants", "11,340 Files"]
+        },
+        {
+          "paragraph": "DCCPS CIDR: The Genetic Basis of Aggressive Prostate Cancer: The Role of Rare Variation - phs001524.v1.p1",
+          "list": ["13,891 Participants", "27,782 Files"]
+        },
+        {
+          "paragraph": "DCCPS:Discovery of Colorectal Cancer Susceptibility Genes in High-Risk Families – phs001787.v1.p1",
+          "list": ["51 Participants", "318 Files"]
+        },
+        {
+          "paragraph": "PDXNet: Washington University PDX Development and Trial Center -phs002305.v1.p",
+          "list": ["110 Participants", "990 Files"]
+        },
+        {
+          "paragraph": "CCDI: Molecular Characterization Initiative – phs002790.v2.p1",
+          "list": ["108 Participants", "1,987 Files"]
+        }
+      ]
+    },
+    {
+      "id": "v2.0",
+      "versionNumber": "v2.0",
+      "releaseDate": "April 17, 2023",
+      "subHeading": "Studies",
+      "heading": "Data Release 2.0",
+      "content": [
+        {
+          "paragraph": "CCDI: UCSF Database for the advancement of JMML – Integration of metadata with “Omic” Data - phs002504.v1.p1",
+          "list": ["1,015 Participants", "14,291 Files"]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Free the Data: Open Sharing of Comprehensive Genomic \nChildhood Cancer Datasets (Kansas) - phs002529.v1.p1",
+          "list": ["193 Participants", "5,374 Files"]
+        },
+        {
+          "paragraph": "DCCPS CIDR: Discovery, Biology, and Risk of Inherited Variants in Glioma sample – phs002250.v2.p1",
+          "list": ["146 Participants", "292 Files"]
+        },
+        {
+          "paragraph": "DCCPS:Discovery of Colorectal Cancer Susceptibility Genes in High-Risk Families – phs001787.v1.p1",
+          "list": ["51 Participants", "318 Files"]
+        },
+        {
+          "paragraph": "DCCPS: Detection of Colorectal Cancer Susceptibility Loci Using Genome-Wide Sequencing – phs001554.v1.p1",
+          "list": ["2,892 Participants", "5,784 Files"]
+        },
+        {
+          "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data - phs002371.v2.p1 – phs002371.v3.p1",
+          "list": ["660 Participants", "3,781 Files"]
+        },
+        {
+          "paragraph": "PDXNet: University of Texas PDX Development and Trial Center Grant – phs001980.v2.p1",
+          "list": ["36 Participants", "98 Files"]
+        }
+      ]
+    },
+    {
+      "id": "v1.0",
+      "versionNumber": "v1.0",
+      "releaseDate": "February 22, 2023",
+      "subHeading": "Studies",
+      "heading": "Data Release 1.0",
+      "content": [
+        {
+          "paragraph": "DCCPS GECCO OICR: Molecular Pathological Epidemiology of Cancer - phs002050.v2.p",
+          "list": ["2,528 Participants", "5,056 Files"]
+        },
+        {
+          "paragraph": "HTAN: Human Tumor Atlas Network Primary Sequencing Data - phs002371.v2.p1",
+          "list": ["270 Participants", "14,808 Files"]
+        },
+        {
+          "paragraph": "CCDI: Molecular Characterization Initiative - phs002790.v1.p1",
+          "list": ["526 Participants", "9,763 Files"]
+        },
+        {
+          "paragraph": "CCDI: UCSF Database for the advancement of JMML – Integration of metadata with “Omic” Data - phs002504.v1.p1",
+          "list": ["188 Participants", "935 Files"]
+        }
+      ]
+    }
+  ]
+}
