@@ -1,6 +1,23 @@
 {
   "HEADING": "Release Notes",
-  "VERSIONS": [    
+  "VERSIONS": [
+    {
+      "id": "v13.0",
+      "versionNumber": "v13.0",
+      "releaseDate": "September 18, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 13.0",
+      "content": [
+        {
+          "paragraph": "DCCPS: Whole Genome Sequencing to Discover Familial Myeloma Risk Genes phs001819.v2.p1 - patch 2",
+          "list": ["5 Participants", "5 Files", "5 Samples"]
+        },
+        {
+          "paragraph": "DCCPS: Detection of Colorectal Cancer Susceptibility Loci Using Genome-Wide Sequencing – phs001554.v3.p2",
+          "list": ["2,333 Participants", "4,720 Files", "2,333 Samples"]
+        }
+      ]
+    },
     {
       "id": "v12.0",
       "versionNumber": "v12.0",
@@ -17,7 +34,7 @@
           "list": ["3,153 Files", "836 Samples"]
         }
       ]
-    },      
+    },
     {
       "id": "v11.0",
       "versionNumber": "v11.0",
@@ -38,7 +55,7 @@
           "list": ["198 Participants", "5,621 Files"]
         }
       ]
-    },      
+    },
     {
       "id": "v10.0",
       "versionNumber": "v10.0",
@@ -67,7 +84,7 @@
           "list": ["5 Participants", "5 Files"]
         }
       ]
-    },      
+    },
     {
       "id": "v9.0",
       "versionNumber": "v9.0",
@@ -133,7 +150,7 @@
           "list": ["710 Participants", "1,860 Files"]
         }
       ]
-    },      
+    },
     {
       "id": "v7.0",
       "versionNumber": "v7.0",
@@ -187,7 +204,7 @@
           "list": ["1 Participants", "2 Files"]
         }
       ]
-    },      
+    },
     {
       "id": "v5.0",
       "versionNumber": "v5.0",
