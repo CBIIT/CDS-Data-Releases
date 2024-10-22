@@ -2,6 +2,23 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v14.0",
+      "versionNumber": "v14.0",
+      "releaseDate": "October 23, 2024",
+      "subHeading": "Studies",
+      "heading": "Data Release 14.0",
+      "content": [
+        {
+          "paragraph": "DCCPS: The Genetic Basis of Aggressive Prostate Cancer, The Role of Rare Variation – phs001524.v1.p1 – patch to add version 1",
+          "list": ["5,560 Participants", "11,234 Files", "5,617 Samples"]
+        },
+        {
+          "paragraph": "DCCPS: Lung Cancer Genetic Study Among Asian Never Smokers – phs002366.v2.p2",
+          "list": ["1,195 Participants", "2,390 Files", "1,195 Samples"]
+        }
+      ]
+    },
+    {
       "id": "v13.0",
       "versionNumber": "v13.0",
       "releaseDate": "September 18, 2024",
