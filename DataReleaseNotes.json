@@ -2,23 +2,6 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
-      "id": "v15.0",
-      "versionNumber": "v15.0",
-      "releaseDate": "December 18, 2024",
-      "subHeading": "Studies",
-      "heading": "Data Release 15.0",
-      "content": [
-        {
-          "paragraph": "CIDR: Molecular Pathological Epidemiology of Colorectal Cancer – phs001905.v2.p2",
-          "list": ["4,341 Participants", "16,832 Files", "8,416 Samples"]
-        },
-        {
-          "paragraph": "Human Tumor Atlas Network (HTAN) imaging data – HTAN_imaging",
-          "list": ["522 Participants", "22,590 Files", "2,177 Samples"]
-        }
-      ]
-    },    
-    {
       "id": "v14.0",
       "versionNumber": "v14.0",
       "releaseDate": "October 23, 2024",
