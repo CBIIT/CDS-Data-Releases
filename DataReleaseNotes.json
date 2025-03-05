@@ -2,6 +2,27 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v16.0",
+      "versionNumber": "v16.0",
+      "releaseDate": "March 14, 2025",
+      "subHeading": "Studies",
+      "heading": "Data Release 16.0",
+      "content": [
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) – phs002371.v7.p2",
+          "list": ["92 Participants", "7,664 Files", "419 Samples"]
+        },
+        {
+          "paragraph": "The Molecular Profiling to Predict Response to Treatment (MP2PRT) – phs002293.v1.p1",
+          "list": ["182 Participants", "481 Files", "1,807 Samples"]
+        },
+        {
+          "paragraph": "CPTAC Proteogenomic Study – phs001287.v17.p6",
+          "list": ["1,102 Participants", "177 Files", "1,675 Samples"]
+        }
+      ]
+    },    
+    {
       "id": "v15.0",
       "versionNumber": "v15.0",
       "releaseDate": "December 18, 2024",
