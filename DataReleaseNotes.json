@@ -2,6 +2,19 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v16.1",
+      "versionNumber": "v16.1",
+      "releaseDate": "March 26, 2025",
+      "subHeading": "Studies",
+      "heading": "Data Release 16.1",
+      "content": [
+        {
+          "paragraph": "CPTAC Proteogenomic Study – phs001287.v17.p6",
+          "list": ["30 Participants", "177 Files", "1,675 Samples"]
+        }
+      ]
+    },
+    {
       "id": "v16.0",
       "versionNumber": "v16.0",
       "releaseDate": "March 14, 2025",
