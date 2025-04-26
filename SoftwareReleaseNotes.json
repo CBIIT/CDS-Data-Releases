@@ -1,0 +1,55 @@
+{
+    "HEADING": "Release Notes",
+    "VERSIONS": [
+      {
+        "id": "GC 4.0.0",
+        "versionNumber": "v4.0.0",
+        "heading": "Software Release: GC 4.0.0",
+        "releaseDate": "April 9, 2025",
+        "subHeadings": [
+            "Release Notes - General Commons – Version GC FE Version: 4.4.0",
+            "Build Details:",
+            "FE Version: 4.4.0.17",
+            "BE Version: 2.3.0.21"
+        ],
+        "content": [
+          {
+            "paragraph": "CPTAC Proteogenomic Study – phs001287.v17.p6",
+            "list": ["30 Participants", "177 Files", "1,675 Samples"]
+          },
+          { 
+            "paragraph": "New Supported Features:",
+            "list": [
+                "Cancer Data Service (CDS) Name Change to General Commons (GC) - The CDS name has been updated to GC for better alignment with the Commons naming conventions and user expectations",
+                "Change in Sequencing Search Terminology - Sequencing category has been updated to Genomic",
+                "Primary Diagnosis Search - A search functionality has been implemented on the Primary Diagnosis field, allowing users to quickly and easily find relevant data based on primary diagnosis.",
+                "Library Source CDE Split into two distinct fields: (1) Library Source Molecule (2) Library Source Material",
+                "This split allows for more precise data classification and improves clarity in library source tracking."
+            ]
+          },
+          {
+            "paragraph": "Documentation:",
+            "list": [
+            "User Guide Update",
+            "The User Guide has been updated to reflect the changes in the General Commons and instructions on how to navigate around"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+            "Data Page - 508 Compliance Issues",
+            "Donuts missing for File type – XLXS – implemented static donut"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs:",
+            "list": [
+            "Footer - More Information section - External links should open in the same new tab",
+            "GC Home Page URL missing suffix \"home\""
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
