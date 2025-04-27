@@ -403,7 +403,7 @@
         "id": "CDS 1.0.2",
         "versionNumber": "v1.0.2",
         "heading": "Software Release: CDS 1.0.2",
-        "releaseDate": "October X25, 2023",
+        "releaseDate": "October 25, 2023",
         "subHeadings": [
           "**Release notes --Cancer Data Service",
           "Build Details:",
@@ -539,7 +539,7 @@
       },
       {
         "id": "CDS MVP Release",
-        "versionNumber": "CDS MVP Release",
+        "versionNumber": "MVP",
         "heading": "Software Release: CDS MVP Release",
         "releaseDate": "February 22, 2023",
         "subHeadings": [
