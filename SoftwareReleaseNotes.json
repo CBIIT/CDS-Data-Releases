@@ -2,6 +2,26 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.0.1",
+        "versionNumber": "v4.0.1",
+        "heading": "Software Release: GC 4.0.1",
+        "releaseDate": "May 7, 2025",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.0.1",
+          "Build Details:",
+          "FE Version: 4.4.0.35",
+          "BE Version: 2.4.0.33"
+        ],
+        "content": [
+          {
+            "paragraph": "Bug Fix:",
+            "list": [
+              "Data model broken link fixed to point to the GC model navigator on CRDC Data Submission portal"
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.0.0",
         "versionNumber": "v4.0.0",
         "heading": "Software Release: GC 4.0.0",
