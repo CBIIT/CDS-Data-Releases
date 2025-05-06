@@ -356,11 +356,11 @@
         },
         {
           "paragraph": "CPTAC: CPTAC Proteogenomic Study - phs001287.v14.p6",
-          "list": ["1,069 Participants", "1,069 Files", "Publication: https://pubmed.ncbi.nlm.nih.gov/37582339/"]
+          "list": ["1,069 Participants", "1,069 Files", "Publication: ${https://pubmed.ncbi.nlm.nih.gov/37582339/}"]
         },
         {
           "paragraph": "CPTAC: CPTAC Proteogenomic Study - phs001287.v16.p6",
-          "list": ["23 Participants", "105 Files", "Publication: https://www.nature.com/articles/s41467-023-37211-7"]
+          "list": ["23 Participants", "105 Files", "Publication: ${https://www.nature.com/articles/s41467-023-37211-7}"]
         },
         {
           "paragraph": "DCCPS CIDR: The Genetic Basis of Aggressive Prostate Cancer: The Role of Rare Variation - phs001524.v2.p2",

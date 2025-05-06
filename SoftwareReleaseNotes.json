@@ -662,37 +662,37 @@
           {
             "paragraph": "Footer",
             "list": [
-              "National Cancer Institute - renders the cancer.gov (https://www.cancer.gov/) home page in a new tab (external from CDS)",
+              "National Cancer Institute - renders the cancer.gov (${https://www.cancer.gov/}) home page in a new tab (external from CDS)",
               {
                 "paragraph": "About CDS",
                 "list": [
-                  "CDS - renders About CDS (https://cds-qa.datacommons.cancer.gov/#/cancerDataService)",
-                  "CRDC - renders the About CRDC page (https://cds-qa.datacommons.cancer.gov/#/crdc)",
-                  "How to Submit Data - renders the About How to Submit Data Page (https://cds-qa.datacommons.cancer.gov/#/submit)"
+                  "CDS - renders About CDS (${https://cds-qa.datacommons.cancer.gov/#/cancerDataService})",
+                  "CRDC - renders the About CRDC page (${https://cds-qa.datacommons.cancer.gov/#/crdc})",
+                  "How to Submit Data - renders the About How to Submit Data Page (${https://cds-qa.datacommons.cancer.gov/#/submit})"
                 ]
               },
               {
                 "paragraph": "Resources",
                 "list": [
-                  "CDS Data Model - renders the CDS resources page with the data model (https://cds-qa.datacommons.cancer.gov/#/resources)",
-                  "GraphQL - renders the GraphQL page (https://cds-qa.datacommons.cancer.gov/#/graphql)",
-                  "Bento - renders the Bento page (https://cds-qa.datacommons.cancer.gov/#/bento)"
+                  "CDS Data Model - renders the CDS resources page with the data model (${https://cds-qa.datacommons.cancer.gov/#/resources})",
+                  "GraphQL - renders the GraphQL page (${https://cds-qa.datacommons.cancer.gov/#/graphql})",
+                  "Bento - renders the Bento page (${https://cds-qa.datacommons.cancer.gov/#/bento})"
                 ]
               },
               {
                 "paragraph": "More Information",
                 "list": [
-                    "Policies - renders the cancer.gov policies page (https://www.cancer.gov/policies)",
-                    "Disclaimer – renders declaimer page in cancer.gov/ policy page (https://www.cancer.gov/policies/disclaimer)",
-                    "Accessibility – renders the accessibility page on the cancer.gov policy page (https://www.cancer.gov/policies/accessibility)"
+                    "Policies - renders the cancer.gov policies page (${https://www.cancer.gov/policies})",
+                    "Disclaimer – renders declaimer page in cancer.gov/ policy page (${https://www.cancer.gov/policies/disclaimer})",
+                    "Accessibility – renders the accessibility page on the cancer.gov policy page (${https://www.cancer.gov/policies/accessibility})"
                 ]
               },
-              "FOIA – renders the Freedom of Information Act page on the cancer.gov policy page (https://www.cancer.gov/policies/foia)",
-              "HHS Vulnerability Disclosure renders the HHS.gov vulnerability and disclosure page (https://www.hhs.gov/vulnerability-disclosure-policy/index.html)",
-              "U.S. Department of Health and Human Services – hhs.gov home page (https://www.hhs.gov/)",
-              "National Institutes of Health – nih.gov home page (https://www.nih.gov/)",
-              "National Cancer Institute - cancer.gov home page (https://www.cancer.gov/)",
-              "USA.gov – usa.gov homepage (https://www.usa.gov/)"
+              "FOIA – renders the Freedom of Information Act page on the cancer.gov policy page (${https://www.cancer.gov/policies/foia})",
+              "HHS Vulnerability Disclosure renders the HHS.gov vulnerability and disclosure page (${https://www.hhs.gov/vulnerability-disclosure-policy/index.html})",
+              "U.S. Department of Health and Human Services – hhs.gov home page (${https://www.hhs.gov/})",
+              "National Institutes of Health – nih.gov home page (${https://www.nih.gov/})",
+              "National Cancer Institute - cancer.gov home page (${https://www.cancer.gov/})",
+              "USA.gov – usa.gov homepage (${https://www.usa.gov/})"
             ]
           }
         ]
