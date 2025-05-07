@@ -10,11 +10,11 @@
       "content": [
         {
           "paragraph": "Childhood Cancer Data Initiative (CCDI): Genomic sequencing of Pediatric Rhabdomyosarcoma – phs000720.v4.p1",
-          "list": ["403 Participants", "403 Files", "2,802 Samples"]
+          "list": ["403 Participants", "2,802 Files", "403 Samples"]
         },
         {
           "paragraph": "Childhood Cancer Data Initiative (CCDI): Single-Cell Atlas of NF1 Nerve Sheath Tumors – phs003519.v1.p1",
-          "list": ["29 Participants", "55 Files", "3,644 Samples"]
+          "list": ["29 Participants", "3,644 Files", "55 Samples"]
         }
       ]
     },
