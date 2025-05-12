@@ -5,7 +5,7 @@
       "id": "v17.0",
       "versionNumber": "v17.0",
       "releaseDate": "May 7, 2025",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 17.0",
       "content": [
         {
@@ -22,7 +22,7 @@
       "id": "v16.1",
       "versionNumber": "v16.1",
       "releaseDate": "March 26, 2025",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 16.1",
       "content": [
         {
@@ -35,7 +35,7 @@
       "id": "v16.0",
       "versionNumber": "v16.0",
       "releaseDate": "March 14, 2025",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 16.0",
       "content": [
         {
@@ -56,7 +56,7 @@
       "id": "v15.0",
       "versionNumber": "v15.0",
       "releaseDate": "December 18, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 15.0",
       "content": [
         {
@@ -73,7 +73,7 @@
       "id": "v14.0",
       "versionNumber": "v14.0",
       "releaseDate": "October 23, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 14.0",
       "content": [
         {
@@ -90,7 +90,7 @@
       "id": "v13.0",
       "versionNumber": "v13.0",
       "releaseDate": "September 18, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 13.0",
       "content": [
         {
@@ -107,7 +107,7 @@
       "id": "v12.0",
       "versionNumber": "v12.0",
       "releaseDate": "August 13, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 12.0",
       "content": [
         {
@@ -124,7 +124,7 @@
       "id": "v11.0",
       "versionNumber": "v11.0",
       "releaseDate": "July 9, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 11.0",
       "content": [
         {
@@ -145,7 +145,7 @@
       "id": "v10.0",
       "versionNumber": "v10.0",
       "releaseDate": "June 25, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 10.0",
       "content": [
         {
@@ -174,7 +174,7 @@
       "id": "v9.0",
       "versionNumber": "v9.0",
       "releaseDate": "May 8, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 9.0",
       "content": [
         {
@@ -207,7 +207,7 @@
       "id": "v8.0",
       "versionNumber": "v8.0",
       "releaseDate": "March 20, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 8.0",
       "content": [
         {
@@ -240,7 +240,7 @@
       "id": "v7.0",
       "versionNumber": "v7.0",
       "releaseDate": "February 27, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 7.0",
       "content": [
         {
@@ -269,7 +269,7 @@
       "id": "v6.0",
       "versionNumber": "v6.0",
       "releaseDate": "January 16, 2024",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 6.0",
       "content": [
         {
@@ -294,7 +294,7 @@
       "id": "v5.0",
       "versionNumber": "v5.0",
       "releaseDate": "Nov 07, 2023",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 5.0",
       "content": [
         {
@@ -335,7 +335,7 @@
       "id": "v4.0",
       "versionNumber": "v4.0",
       "releaseDate": "Sept 26, 2023",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 4.0",
       "content": [
         {
@@ -372,7 +372,7 @@
       "id": "v3.0",
       "versionNumber": "v3.0",
       "releaseDate": "May 18, 2023",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 3.0",
       "content": [
         {
@@ -401,7 +401,7 @@
       "id": "v2.0",
       "versionNumber": "v2.0",
       "releaseDate": "April 17, 2023",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 2.0",
       "content": [
         {
@@ -438,7 +438,7 @@
       "id": "v1.0",
       "versionNumber": "v1.0",
       "releaseDate": "February 22, 2023",
-      "subHeading": "Studies",
+      "subHeadings": ["Studies"],
       "heading": "Data Release 1.0",
       "content": [
         {
