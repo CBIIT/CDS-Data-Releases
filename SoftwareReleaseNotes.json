@@ -2,6 +2,42 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.2.0",
+        "versionNumber": "v4.2.0",
+        "heading": "Software Release: GC 4.2.0",
+        "releaseDate": "June 11, 2025",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.2.0",
+          "Build Details:",
+          "FE Version: 4.5.0.47",
+          "BE Version: 3.0.0.57"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Migration to Memgraph Database - We've migrated our data backend to Memgraph, enhancing performance, scalability, and support for advanced graph queries.",
+              "CRDC Helpdesk Footer Addition - A direct link to the CRDC Helpdesk has been added in the website footer for improved user support access.",
+              "Participant Dropdown Tooltip - Tooltips are now available in the participant dropdown for clearer context and easier navigation.",
+              "Enhanced Search Capabilities - You can now search within the General Commons by: PHS Accessions, Study Name, File Type",
+              "GC Documentation (via the “About” section) – GC User Guide and GC API Query Documentation",
+              "Improved Programs Listing Page - The Programs page layout has been optimized to reduce white space, providing cleaner and more efficient user experience."
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Submission Request Redirect - Fixed an issue when clicking on a submission request would erroneously scroll the page to the footer.",
+              "Footer External Links Behavior - External links in the “More Information” section of the footer now open in the same new tab, as expected.",
+              "Cart Page PDF Cropping - Resolved a display issue where text in the Readme PDF on the Cart Page was slightly cropped.",
+              "Global Search Footer Obstruction - Corrected a problem where search results were being partially obscured by the footer.",
+              "Duplicate ‘X’ Icons in Global Search Bar - Removed redundant close (X) icons from the Global Search Bar for a more streamlined UI.",
+              "GC Home Page URL Fix - The GC Home Page URL has been updated to include the missing suffix “/home”, ensuring correct navigation."
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.0.1",
         "versionNumber": "v4.0.1",
         "heading": "Software Release: GC 4.0.1",
