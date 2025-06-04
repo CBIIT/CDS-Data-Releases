@@ -29,7 +29,6 @@
             "list": [
               "Submission Request Redirect - Fixed an issue when clicking on a submission request would erroneously scroll the page to the footer.",
               "Footer External Links Behavior - External links in the “More Information” section of the footer now open in the same new tab, as expected.",
-              "Cart Page PDF Cropping - Resolved a display issue where text in the Readme PDF on the Cart Page was slightly cropped.",
               "Global Search Footer Obstruction - Corrected a problem where search results were being partially obscured by the footer.",
               "Duplicate ‘X’ Icons in Global Search Bar - Removed redundant close (X) icons from the Global Search Bar for a more streamlined UI.",
               "GC Home Page URL Fix - The GC Home Page URL has been updated to include the missing suffix “/home”, ensuring correct navigation."
