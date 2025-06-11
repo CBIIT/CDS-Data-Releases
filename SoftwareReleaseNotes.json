@@ -1,0 +1,737 @@
+{
+    "HEADING": "Release Notes",
+    "VERSIONS": [
+      {
+        "id": "GC 4.2.0",
+        "versionNumber": "v4.2.0",
+        "heading": "Software Release: GC 4.2.0",
+        "releaseDate": "June 11, 2025",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.2.0",
+          "Build Details:",
+          "FE Version: 4.5.0.47",
+          "BE Version: 3.0.0.57"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Migration to Memgraph Database - We've migrated our data backend to Memgraph, enhancing performance, scalability, and support for advanced graph queries.",
+              "CRDC Helpdesk Footer Addition - A direct link to the CRDC Helpdesk has been added in the website footer for improved user support access.",
+              "Participant Dropdown Tooltip - Tooltips are now available in the participant dropdown for clearer context and easier navigation.",
+              "Enhanced Search Capabilities - You can now search within the General Commons by: PHS Accessions, Study Name, File Type",
+              "GC Documentation (via the “About” section) – GC User Guide and GC API Query Documentation",
+              "Improved Programs Listing Page - The Programs page layout has been optimized to reduce white space, providing cleaner and more efficient user experience."
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Submission Request Redirect - Fixed an issue when clicking on a submission request would erroneously scroll the page to the footer.",
+              "Footer External Links Behavior - External links in the “More Information” section of the footer now open in the same new tab, as expected.",
+              "Global Search Footer Obstruction - Corrected a problem where search results were being partially obscured by the footer.",
+              "Duplicate ‘X’ Icons in Global Search Bar - Removed redundant close (X) icons from the Global Search Bar for a more streamlined UI.",
+              "GC Home Page URL Fix - The GC Home Page URL has been updated to include the missing suffix “/home”, ensuring correct navigation."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GC 4.0.1",
+        "versionNumber": "v4.0.1",
+        "heading": "Software Release: GC 4.0.1",
+        "releaseDate": "May 7, 2025",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.0.1",
+          "Build Details:",
+          "FE Version: 4.4.0.35",
+          "BE Version: 2.4.0.33"
+        ],
+        "content": [
+          {
+            "paragraph": "Bug Fix:",
+            "list": [
+              "Data model broken link fixed to point to the GC model navigator on CRDC Data Submission portal"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GC 4.0.0",
+        "versionNumber": "v4.0.0",
+        "heading": "Software Release: GC 4.0.0",
+        "releaseDate": "April 9, 2025",
+        "subHeadings": [
+            "Release Notes - General Commons – Version GC FE Version: 4.4.0",
+            "Build Details:",
+            "FE Version: 4.4.0.17",
+            "BE Version: 2.3.0.21"
+        ],
+        "content": [
+          {
+            "paragraph": "CPTAC Proteogenomic Study – phs001287.v17.p6",
+            "list": ["30 Participants", "177 Files", "1,675 Samples"]
+          },
+          { 
+            "paragraph": "New Supported Features:",
+            "list": [
+                "Cancer Data Service (CDS) Name Change to General Commons (GC) - The CDS name has been updated to GC for better alignment with the Commons naming conventions and user expectations",
+                "Change in Sequencing Search Terminology - Sequencing category has been updated to Genomic",
+                "Primary Diagnosis Search - A search functionality has been implemented on the Primary Diagnosis field, allowing users to quickly and easily find relevant data based on primary diagnosis.",
+                "Library Source CDE Split into two distinct fields: (1) Library Source Molecule (2) Library Source Material",
+                "This split allows for more precise data classification and improves clarity in library source tracking."
+            ]
+          },
+          {
+            "paragraph": "Documentation:",
+            "list": [
+            "User Guide Update",
+            "The User Guide has been updated to reflect the changes in the General Commons and instructions on how to navigate around"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+            "Data Page - 508 Compliance Issues",
+            "Donuts missing for File type – XLXS – implemented static donut"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs:",
+            "list": [
+            "Footer - More Information section - External links should open in the same new tab",
+            "GC Home Page URL missing suffix \"home\""
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 3.0.3",
+        "versionNumber": "v3.0.3",
+        "heading": "Software Release: CDS 3.0.3",
+        "releaseDate": "February 13, 2025",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.3.0",
+          "Build Details:",
+          "FE Version: 4.3.0.321",
+          "BE Version: 2.2.1.134"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Removed the gender label from the search on the data explore page and included \"sex\"",
+              "The term gender is no longer searchable on the faceted search nor visible on the donuts",
+              "User Guide and Help document has been updated to reflect these changes",
+              "Sex is a searchable term on the CDS portal"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 3.0.2",
+        "versionNumber": "v3.0.2",
+        "heading": "Software Release: CDS 3.0.2",
+        "releaseDate": "December 18, 2024",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.3.0",
+          "Build Details:",
+          "FE Version: 4.3.0.308",
+          "BE Version: 2.2.0.131"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Data Model Button on About Page: Provides easy access to view the data model",
+              "Shareable Query URL on Data Portal: Allows users to share a specific search with collaborators",
+              "CDS Tabs Update with Page Labels: When navigating to a new page, users will see the page label on the tab",
+              "Tooltips on CDS Cart Page: Enhanced user experience with tooltips on the CDS Cart page",
+              "Pagination on Studies Page: Added pagination functionality to improve navigation on the Studies page",
+              "Pagination on Programs Details Page: Added pagination to the Programs Details page for improved accessibility and to comply with 508 requirements",
+              "Pagination on Programs Page: Implemented pagination on the Programs page to meet 508 compliance standards",
+              "Notification for File Upload Limit Exceedance: Users will receive a notification if they exceed the file upload limit on the Data Explore page",
+              "Tooltips on CDS Data Page: Improved user experience with tooltips on the CDS Data page",
+              "Global Search Functionality: Search results are now clickable and lead to the Data Explore page",
+              "Accessible Form Labels: All form elements now have accessible labels to ensure 508 compliance",
+              "Updated User Guide PDF: The User Guide PDF has been updated to meet 508 compliance standards",
+              "CDS API Date Stamp: Implemented a date stamp for the CDS API for better tracking and versioning"
+            ]
+          },
+          {
+            "paragraph": "Data Releases:",
+            "list": [
+              "Data Release Version 15"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Data Page - 508 Compliance Issues",
+              "Data Page - Add Selected Files - Tool Tips should display whenever we hover on it",
+              "Instrument Model Filter displays Samples count as 0"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs:",
+            "list": [
+              "Downloaded Manifest has incorrect data in Associated File DRS URI field",
+              "Study Detailed Page - There should be a gap between Add Selected Files button and Footer",
+              "Selecting Number of Samples Slider makes the donuts (Sample type) disappear",
+              "Selecting Number of Participants Slider makes the donuts (Experimental Strategy, Gender, File type) disappear",
+              "Donuts missing for File type – XLXS as these are at the study level",
+              "1k File Limit - Empty Pop up msg"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 3.0.1",
+        "versionNumber": "v3.0.1",
+        "heading": "Software Release: CDS 3.0.1",
+        "releaseDate": "August 14, 2024",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.3.0",
+          "Build Details:",
+          "FE Version: 4.3.0.282",
+          "BE Version: 2.1.1.98"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Enable Google Analytics for the current CDS portal",
+              "Update CRDC Helpdesk email",
+              "File Selection and Cart Behavior",
+              "\"Library Strategy\" Column Displays by Default in Files Tab on Data Explore Page"
+            ]
+          },
+          {
+            "paragraph": "Data Releases:",
+            "list": [
+              "Data Release Version 12.0"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Automation - Data Mismatch - Participant tab - Sample column",
+              "Automation Error - Files tab - Participants & Samples value mismatch - UI vs DB",
+              "Manifest File - Primary Diagnosis - Incorrect Spelling",
+              "Number of participants and number of samples not returning files",
+              "Program Detailed Page - Study Version in new tab not opening as expected.",
+              "Study Listing Page - Study Version - On clicking back arrow not redirecting to the same listing page.",
+              "Sample Type - Adding Files from Samples Tab - Incorrect notification (cart msg)",
+              "Data Page -> Participants and Sample tab do not show data when gender is selected as \"Not specified in data\"",
+              "Global Search Page -> Search result stat bar is not expanding (About page counts are overlapped)",
+              "Study details page -> When a study name is long, it overlaps the purple ribbon",
+              "Data Issue -> Duplicate checkboxes are appearing for \"LIBRARY STRATEGY\" and \"LIBRARY SELECTION\" facets"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs:",
+            "list": [
+              "File Cart -> For some studies user is not able to add less than 1000 files from Participants and Samples tab",
+              "Data Issue -> Duplicate checkboxes are appearing for \"Primary Diagnosis\" facet",
+              "Collapse View - the blue ribbon under the tabs does not run across the entire length of the table and is abruptly stopped",
+              "Study details page - When a study name is long, the Explore Study Participants button hanging above purple ribbon"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 3.0.0",
+        "versionNumber": "v3.0.0",
+        "heading": "Software Release: CDS 3.0.0",
+        "releaseDate": "June 25, 2024",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.2.0",
+          "Build Details:",
+          "FE Version: 4.2.0.269",
+          "BE Version: 2.1.0.90"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "CDS Transition to a central CRDC Data Submission and Data Discovery portals banner",
+              "Direct Export Button to Cancer Genomics Cloud (CGC)",
+              "Cart exporting manifest with all metadata to CGC",
+              "Licenses visible in the cart for studies with licenses"
+            ]
+          },
+          {
+            "paragraph": "Data Releases:",
+            "list": [
+              "Data Release Version 10"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Files without samples linked to participants"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs:",
+            "list": [
+              "Sample Type - Adding Files from Samples Tab - Incorrect notification (cart msg)",
+              "Donuts behavior on Dashboard",
+              "Program Detailed Page - Study Version in new tab not opening as expected.",
+              "Study Listing Page - Study Version - On clicking back arrow not redirecting to the same listing page.",
+              "Manifest File - Primary Diagnosis - Incorrect Spelling"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 2.1.1",
+        "versionNumber": "v2.1.1",
+        "heading": "Software Release: CDS 2.1.1",
+        "releaseDate": "May 8, 2024",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.1.0",
+          "Build Details:",
+          "FE Version: 4.1.0.244",
+          "BE Version: 2.1.0.64"
+        ],
+        "content": [
+          {
+            "paragraph": "Hot Fix 2:",
+            "list": [
+              "Data model update to link participant to file when no samples are available",
+              "Data release v9.0"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 2.1.0",
+        "versionNumber": "v2.1.0",
+        "heading": "Software Release: CDS 2.1.0",
+        "releaseDate": "March 20, 2024",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.0.0",
+          "Build Details",
+          "FE Version: 4.1.0.231",
+          "BE Version: 2.1.0.52"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features",
+            "list": [
+              "Updated search categories by:",
+              "Demographics",
+              "Study",
+              "Samples",
+              "Sequencing",
+              "Imaging",
+              "Diagnosis",
+              "Files",
+              "Added two donut visualizations for Image modality and sample type",
+              "Table on data column show and hide feature expanded with more elements",
+              "Participants",
+              "Study Name",
+              "Accession",
+              "Gender",
+              "Samples",
+              "Race",
+              "Ethnicity",
+              "Primary Diagnosis",
+              "Samples",
+              "Participant ID",
+              "Study Name",
+              "Accession",
+              "Tumor",
+              "Analyte Type",
+              "Files",
+              "Sample Type",
+              "Sample Tumor Status",
+              "Organ or Tissue",
+              "Files",
+              "Study Name",
+              "Accession",
+              "Participant ID",
+              "Sample ID",
+              "File Type",
+              "File Size",
+              "Study Data Type",
+              "Library Strategy",
+              "Image Modality",
+              "Studies details – added study versions",
+              "Program details – added study versions"
+            ]
+          },
+          {
+            "paragraph": "Data Model",
+            "list": [
+              "Updated the data model to accommodate imaging data for:",
+              "HTAN – phs002371_image",
+              "CHoP – phs002517",
+              "Updated open search queries to accommodate imaging data",
+              "Additional studies added"
+            ]
+          },
+          {
+            "paragraph": "New integration",
+            "list": [
+              "Imaging data model now supported on CDS"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes",
+            "list": [
+              "Files filtered out due to sample IDs not present"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs",
+            "list": [
+              "Files without samples not linked to participant",
+              "Sample Type Donut - displays multiple filters upon selecting a Single filter"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 2.0.0",
+        "versionNumber": "v2.0.0",
+        "heading": "Software Release: CDS 2.0.0",
+        "releaseDate": "December 13, 2023",
+        "subHeadings": [
+          "Release Notes - Cancer Data Service – Version CDS FE Version: 4.0.0",
+          "Build Details",
+          "FE Version: 4.0.0.194",
+          "BE Version: 2.0.0.24"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features",
+            "list": [
+              "Data page column show and hide feature for metadata",
+              "Side bar categorized by Study, Sample, and Files",
+              "Updated color schema on widgets",
+              "Local find upgrade",
+              "Enhanced Global search​ across elements",
+              "Updates on data filters to build cohorts",
+              "Download DRS manifest​ to upload directly to GCC for analysis",
+              "Table on data column show and hide feature"
+            ]
+          },
+          {
+            "paragraph": "Data Model",
+            "list": [
+              "Updated the data model to accommodate the many-to-many relationships of data elements for phs003155.v1.p1",
+              "Updated open search queries to accommodate",
+              "Additional studies added"
+            ]
+          },
+          {
+            "paragraph": "New integration",
+            "list": [
+              "Aggregated data model now supported"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes",
+            "list": [
+              "Sliders updated show min and max values for studies selected",
+              "Rows Per Page - 100 space narrowing",
+              "Study Detailed Page - No.of.Files/No.of.Participants displays as text instead of number",
+              "Study Listing Page - No.of.Files/No.of.Participants displays as text instead of number",
+              "Empty Error Pop-Up When Attempting to Add More Than 1000 Files to the Cart",
+              "Missing MD5sum in Manifest File for files downloaded from Cart for some of the studies",
+              "Application crashes when expanding “Num of Study Samples” facet with empty data",
+              "Stat Bar count mismatch on the Num of Study Participants/Num of study Samples filters"
+            ]
+          },
+          {
+            "paragraph": "Known Bugs",
+            "list": [
+              "Data dashboard participants and samples files querying all files on manifest",
+              "Footer – GraphQL to be moved to “About CDS” Category"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 1.0.2",
+        "versionNumber": "v1.0.2",
+        "heading": "Software Release: CDS 1.0.2",
+        "releaseDate": "October 25, 2023",
+        "subHeadings": [
+          "**Release notes --Cancer Data Service",
+          "Build Details:",
+          "FE Version: 3.0.4.162",
+          "BE Version: 24.6.1.148"
+        ],
+        "content": [
+          {
+            "paragraph": "Hot Fix",
+            "list": [
+              "Update queries to load larger studies"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 1.0.1",
+        "versionNumber": "v1.0.1",
+        "heading": "Software Release: CDS 1.0.1",
+        "releaseDate": "August 11, 2023",
+        "subHeadings": [
+          "CDS Bug Release",
+          "**Release notes -- Cancer Data Service -- 1.0.1",
+          "Build Details:",
+          "FE Version: 3.0.2.142",
+          "BE Version: 24.6.1.97"
+        ],
+        "content": [
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "CDS New Questionnaire Link still points to the old link.",
+              "About Page - NCI's Cloud Services",
+              "About Page - Incorrect Spelling",
+              "Study Detail Page - Sorting not working as expected in 'Null' Cases.",
+              "The file count for study phs002790 is incorrect in the 'STUDIES' page",
+              "Study Access not showing on the cart page",
+              "Participants counts mismatch between DB, UI is failing the automation scripts for Library Layout Filter",
+              "Automation Error - Sample Tumor Filter - Stat Bar - Data Mismatch",
+              "Automation Error - Reference Genome Assembly - Stat bar Mismatch",
+              "Automation Error - Library Strategy Filter - Stat Bar - Data Mismatch",
+              "Automation Error - Study Filter - Stat Bar - Data Mismatch",
+              "Automation: Data page -> Library Source -> Participants tab/Stat bar - UI counts are not matching with Neo4j data.",
+              "Gender Filter - Stat Bar - Data Mismatch - Automation Error",
+              "When reaching the Data page, through Study participants link from the Study detail page, the stat bar shows an intermittent value before settling with the final counts",
+              "Home Page - CRDC Link Should open in separate tab",
+              "Mismatch in the button name (label) quoted in the file centric cart vs the actual label displayed on the download manifest button.",
+              "Seven Bridges Genomics account link in the cart page does not open in a new tab.",
+              "Outbound website icon appears for most of the links",
+              "CDS favicon is missing from the titlebar",
+              "Broken image",
+              "Footer - CRDC Link displays 404 error",
+              "Stat bar Data Mismatch - Automation - Experimental Strategy - Amplicon",
+              "Sliders - Alignment is not proper when selected any Study Filter",
+              "Study Detail Page - Study showing wrong Participants count when we redirect to Data page from Study Detail Page",
+              "Data Mismatch Error - Automation - PHS Accession",
+              "Accessing and Analyzing Data - URL exposed and not linking",
+              "About how to submit data - directions included in the code",
+              "Text changes - About CDS Data Model - Links exposed",
+              "LCCC - phs001713 showing more file in the UI than in the actual data",
+              "Programs Page - StatBar - Files count Mismatch",
+              "Update about pages",
+              "CDS uploaded data to be tested",
+              "The upload case set pop-up window should not keep identifiers when user clicks on CANCEL button",
+              "Sort tooltip hides the text"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS 1.0.0",
+        "versionNumber": "v1.0.0",
+        "heading": "Software Release: CDS 1.0.0",
+        "releaseDate": "June 27, 2023",
+        "subHeadings": [
+          "Release Notes – Cancer Data Service (CDS) – 1.0.0",
+          "Frontend Version: 3.0.1.133",
+          "Backend Version: 24.6.1.80"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Data stats bar linking to pages (Studies, Participants, Samples, Files)",
+              "Added and updated stat bar icons",
+              "Online submission form",
+              "Annotated studies to show access level"
+            ]
+          },
+          {
+            "paragraph": "New Content:",
+            "list": [
+              "CDS New Request Questionnaire",
+              "Static release notes",
+              "NCI Cloud Resource page",
+              "Accessing and Analyzing data page",
+              "CDS User Guide"
+            ]
+          },
+          {
+            "paragraph": "Data model:",
+            "list": [
+              "Nine more studies added",
+              "Primary diagnosis field cleaned up"
+            ]
+          },
+          {
+            "paragraph": "Bug fixes:",
+            "list": [
+              "Updated text on home page",
+              "Updated text on about pages",
+              "Updated link direction on home pages",
+              "Added more donuts (facets)",
+              "Updated search on data page to CDS-centric participant information (Info Icon on for uploading a file with Participant Ids shows wrong info)",
+              "Messages showing up for multiple Info Icons need updates (Download Manifest, Add Selected Files etc)",
+              "Add Selected Files button changes color when you click Files Tab",
+              "Values in 'Samples' column for few studies are too long and distort the table view. Need to wrap text",
+              "Home page: Under “Studies” tile, it says a user can view summaries of the studies within CDS but there are no summaries. Just study listings (as indicated in the call to action box below the tile)",
+              "Faceted Search - study participants: the smallest study has 188 participants so the minimum should reflect this in the bar.",
+              "Faceted search bar: Study names under faceted search should generally follow the same format e.g. Acronym then full name – so reader can easily skim the information.",
+              "Studies tab: 'Study description' is not filled out for any studies but would be very helpful",
+              "About CDS tab: Suggest spelling out acronyms for studies (HTAN, CCDI…) since many users won’t know what these are. Maybe even provide hyperlinks to those study pages.",
+              "About CDS tab: Suggest adding link to CDS Helpdesk here to make it more visible and easier to find.",
+              "The slider does not clear when hitting the 'clear all filtered selections'",
+              "'Explore CDS Data' link out -> more noticeable",
+              "No phs accession IDs are listed under 'PHS ACCESSION' when a study is selected",
+              "Updated file limit from 1000 to 6000",
+              "'Upload participant set' button, the text box to explain the expected delimiter, as it seems that either commas or returns work.",
+              "The md5sum values are missing in the manifest"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CDS MVP Release",
+        "versionNumber": "MVP",
+        "heading": "Software Release: CDS MVP Release",
+        "releaseDate": "February 22, 2023",
+        "subHeadings": [
+          "Build Details:",
+          "FE Version: 2.0.0.65",
+          "BE Version: 24.6.0.48"
+        ],
+        "content": [
+          {
+            "paragraph": "Home",
+            "list": [
+              "Access Data, Programs, Studies, and About from the Home page",
+              "Access to cart page",
+              "Explore CDS Data – renders data dashboard",
+              "EXPLORE renders the About CDS",
+              "Global Search across CDS",
+              "Statistics about Studies, Participants, Samples, and Files in CDS",
+              "Initial load and top link bar that navigates to CRDC"
+            ]
+          },
+          {
+            "paragraph": "Data dashboard",
+            "list": [
+              "Sorting of table-based model filtering options",
+              "Filtering by Study, Experimental Strategy, Gender, Tumor, and File type",
+              "Download of a manifest file on cart page",
+              "Filtering of facet-based model for Experimental strategy, Gender, Tumor",
+              "Table can be filtered by Participants, Samples, and File",
+              "Participant file upload and information display on facet",
+              "Ability to add the selected cases/samples files to cart"
+            ]
+          },
+          {
+            "paragraph": "Programs",
+            "list": [
+              "List of all programs",
+              "Number of studies in each program",
+              "Each program has a program details page with information"
+            ]
+          },
+          {
+            "paragraph": "Studies",
+            "list": [
+              "Lists all the studies in CDS",
+              "Table sort",
+              "Accession renders Study details page",
+              "Study information",
+              "Sortable Study Data table",
+              "File selection feature to add to cart for manifest download"
+            ]
+          },
+          {
+            "paragraph": "About",
+            "list": [
+              {
+                "paragraph": "About CDS",
+                "list": [
+                  "Overview of the scope of CDS"
+                ]
+              },
+              {
+                "paragraph": "About CRDC",
+                "list": [
+                  "Information on CRDC and all the Cloud resources available in CRDC"
+                ]
+              },
+              {
+                "paragraph": "How To Submit Data",
+                "list": [
+                  "Provide CDS help through the CDS Help Desk",
+                  "CDS submission Guide",
+                  "Submission Questionnaire",
+                  "Current CDS metadata Template",
+                  "Link to CDS Explorer in Seven Bridges"
+                ]
+              },
+              {
+                "paragraph": "About CDS Data Model",
+                "list": [
+                  "Information about the CDS data model and links in GitHub",
+                  "Link to the Core data model",
+                  "Link to how to generate metadata manifests",
+                  "Link to processing CDS metadata manifest to SRA"
+                ]
+              },
+              {
+                "paragraph": "GraphQL",
+                "list": [
+                  "Instructions on how to run GraphQL simple queries"
+                ]
+              },
+              {
+                "paragraph": "Bento Framework",
+                "list": [
+                  "Information about Bento and contact details"
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": "Footer",
+            "list": [
+              "National Cancer Institute - renders the cancer.gov (${https://www.cancer.gov/}) home page in a new tab (external from CDS)",
+              {
+                "paragraph": "About CDS",
+                "list": [
+                  "CDS - renders About CDS (${https://cds-qa.datacommons.cancer.gov/#/cancerDataService})",
+                  "CRDC - renders the About CRDC page (${https://cds-qa.datacommons.cancer.gov/#/crdc})",
+                  "How to Submit Data - renders the About How to Submit Data Page (${https://cds-qa.datacommons.cancer.gov/#/submit})"
+                ]
+              },
+              {
+                "paragraph": "Resources",
+                "list": [
+                  "CDS Data Model - renders the CDS resources page with the data model (${https://cds-qa.datacommons.cancer.gov/#/resources})",
+                  "GraphQL - renders the GraphQL page (${https://cds-qa.datacommons.cancer.gov/#/graphql})",
+                  "Bento - renders the Bento page (${https://cds-qa.datacommons.cancer.gov/#/bento})"
+                ]
+              },
+              {
+                "paragraph": "More Information",
+                "list": [
+                    "Policies - renders the cancer.gov policies page (${https://www.cancer.gov/policies})",
+                    "Disclaimer – renders declaimer page in cancer.gov/ policy page (${https://www.cancer.gov/policies/disclaimer})",
+                    "Accessibility – renders the accessibility page on the cancer.gov policy page (${https://www.cancer.gov/policies/accessibility})"
+                ]
+              },
+              "FOIA – renders the Freedom of Information Act page on the cancer.gov policy page (${https://www.cancer.gov/policies/foia})",
+              "HHS Vulnerability Disclosure renders the HHS.gov vulnerability and disclosure page (${https://www.hhs.gov/vulnerability-disclosure-policy/index.html})",
+              "U.S. Department of Health and Human Services – hhs.gov home page (${https://www.hhs.gov/})",
+              "National Institutes of Health – nih.gov home page (${https://www.nih.gov/})",
+              "National Cancer Institute - cancer.gov home page (${https://www.cancer.gov/})",
+              "USA.gov – usa.gov homepage (${https://www.usa.gov/})"
+            ]
+          }
+        ]
+      }           
+    ]
+  }
+  
