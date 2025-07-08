@@ -2,6 +2,28 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v18.0",
+      "versionNumber": "v18.0",
+      "releaseDate": "July 9, 2025",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 18.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): CCDI Pediatric In Vivo Testing Program - Leukemia - phs003164.v1.p1",
+          "list": ["1,141 Files", "284 Samples"]
+        },
+        {
+          "paragraph": "Data cleanup:",
+          "list": [
+            {
+              "paragraph": "Human Tumor Atlas Network (HTAN) – phs002371",
+              "list": ["File cleanup: 32 files have been removed from HTAN as part of routine data management and cleanup."]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "v17.0",
       "versionNumber": "v17.0",
       "releaseDate": "May 7, 2025",
