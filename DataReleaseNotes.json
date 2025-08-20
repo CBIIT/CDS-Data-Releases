@@ -2,6 +2,48 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v19.0",
+      "versionNumber": "v19.0",
+      "releaseDate": "August 20, 2025",
+      "subHeadings": [
+        "Studies"
+      ],
+      "heading": "Data Release 19.0",
+      "content": [
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) – phs002371.v8.p2",
+          "list": [
+            "31 Participants",
+            "743 Files",
+            "137 Samples"
+          ]
+        },
+        {
+          "paragraph": "Data cleanup:",
+          "list": [
+            {
+              "paragraph": "Childhood Cancer Data Initiative (CCDI): CCDI Pediatric In Vivo Testing Program - Leukemia - phs003164.v2.p1",
+              "list": [
+                "Update: Genomic Info node - library strategy updated to Bulk-RNA-Seq"
+              ]
+            },
+            {
+              "paragraph": "Childhood Cancer Data Initiative (CCDI): Genomic sequencing of Pediatric Rhabdomyosarcoma – phs000720.v4.p1",
+              "list": [
+                "File cleanup: study temporarily removed from the GC per request of the submitter for maintenance"
+              ]
+            },
+            {
+              "paragraph": "Childhood Cancer Data Initiative (CCDI): Molecular Characterization Initiative - Genomic - phs002790.v7.p1",
+              "list": [
+                "Deletion: Removed 61 ineligible participants"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "v18.0",
       "versionNumber": "v18.0",
       "releaseDate": "July 9, 2025",
