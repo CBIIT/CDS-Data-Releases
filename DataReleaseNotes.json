@@ -2,6 +2,23 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v20.0",
+      "versionNumber": "v20.0",
+      "releaseDate": "September 15, 2025",
+      "subHeadings": [
+        "Studies"
+      ],
+      "heading": "Data Release 20.0",
+      "content": [
+        {
+          "paragraph": "Placeholder for Data Release 20.0 content",
+          "list": [
+            "Content will be updated when release details are finalized"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v19.0",
       "versionNumber": "v19.0",
       "releaseDate": "August 20, 2025",
