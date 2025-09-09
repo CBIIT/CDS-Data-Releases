@@ -2,6 +2,19 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v20.0",
+      "versionNumber": "v20.0",
+      "releaseDate": "September 17, 2025",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 20.0",
+      "content": [
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) – phs002371.v8.p2",
+          "list": ["31 Files", "31 Samples"]
+        }
+      ]
+    },
+    {
       "id": "v19.0",
       "versionNumber": "v19.0",
       "releaseDate": "August 20, 2025",
