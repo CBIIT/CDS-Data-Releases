@@ -2,6 +2,33 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.6.0",
+        "versionNumber": "v4.6.0",
+        "heading": "Software Release: GC 4.6.0",
+        "releaseDate": "September 17, 2025",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.6.0",
+          "Build Details:",
+          "FE Version: 4.6.0.60",
+          "BE Version: 3.1.1.74"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Temporary Maintenance Banner - A new Temporary Maintenance feature designed to improve user communication when specific pages are undergoing short-term maintenance. This feature enables the display of a banner at the top of the GC portal, notifying users that a particular page is temporarily unavailable."
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Memgraph Node Query Counts: Updated and corrected the node query count logic to ensure accurate tracking and reporting of query results.",
+              "Library Source Molecule – Metagenomic: updated to reflect that existing functionality continues to work as expected with the new Metagenomic data type addition."
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.2.0",
         "versionNumber": "v4.2.0",
         "heading": "Software Release: GC 4.2.0",
