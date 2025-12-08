@@ -2,6 +2,22 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v22.0",
+      "versionNumber": "v22.0",
+      "releaseDate": "December 17, 2025",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 22.0",
+      "content": [
+        {
+          "paragraph": "Health Information National Trends Survey-SEER (HINTS-SEER) - phs004065.v1.p1",
+          "list": [
+            "11 Files",
+            "1,234 Participants"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v21.0",
       "versionNumber": "v21.0",
       "releaseDate": "October 15, 2025",
