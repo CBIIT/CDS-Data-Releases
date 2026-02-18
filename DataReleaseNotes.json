@@ -2,6 +2,267 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v23.0",
+      "versionNumber": "v23.0",
+      "releaseDate": "February 20, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 23.0",
+      "content": [
+        {
+          "paragraph": "A collection of 36 studies consisting of 9,027 participants and 85,983 files - phs004225.v1.p1\n\nHead-and-neck squamous cell carcinoma patients with CT taken during pre-treatment, mid-treatment, and post-treatment",
+          "list": [
+            "31 Participants",
+            "371 Files"
+          ]
+        },
+        {
+          "paragraph": "QIN GBM Treatment Response",
+          "list": [
+            "54 Participants",
+            "1,942 Files"
+          ]
+        },
+        {
+          "paragraph": "Brain Tumor Recurrence Prediction after Gamma Knife Radiotherapy from MRI and Related DICOM-RT: An Open Annotated Dataset and Baseline Algorithm",
+          "list": [
+            "47 Participants",
+            "228 Files"
+          ]
+        },
+        {
+          "paragraph": "A whole-body FDG-PET/CT dataset with manually annotated tumor lesions",
+          "list": [
+            "900 Participants",
+            "3,042 Files"
+          ]
+        },
+        {
+          "paragraph": "Computed Tomography Images from Large Head and Neck Cohort",
+          "list": [
+            "3,346 Participants",
+            "6,683 Files"
+          ]
+        },
+        {
+          "paragraph": "HEAD-NECK-RADIOMICS-HN1",
+          "list": [
+            "137 Participants",
+            "486 Files"
+          ]
+        },
+        {
+          "paragraph": "Head-Neck Cetuximab",
+          "list": [
+            "111 Participants",
+            "1,682 Files"
+          ]
+        },
+        {
+          "paragraph": "Brain-Tumor-Progression",
+          "list": [
+            "20 Participants",
+            "383 Files"
+          ]
+        },
+        {
+          "paragraph": "Segmentation and Classification of Grade I and II Meningiomas from Magnetic Resonance Imaging: An Open Annotated Dataset",
+          "list": [
+            "96 Participants",
+            "674 Files"
+          ]
+        },
+        {
+          "paragraph": "Gamma Knife MR/CT/RTSTRUCT Sets With Hippocampal Contours",
+          "list": [
+            "390 Participants",
+            "8,307 Files"
+          ]
+        },
+        {
+          "paragraph": "QIN-SARCOMA",
+          "list": [
+            "15 Participants",
+            "2,168 Files"
+          ]
+        },
+        {
+          "paragraph": "The Clinical Proteomic Tumor Analysis Consortium Head and Neck Squamous Cell Carcinoma Collection",
+          "list": [
+            "156 Participants",
+            "3,127 Files"
+          ]
+        },
+        {
+          "paragraph": "Glioma Image Segmentation for Radiotherapy: RT targets, barriers to cancer spread, and organs at risk",
+          "list": [
+            "230 Participants",
+            "1,915 Files"
+          ]
+        },
+        {
+          "paragraph": "HNSCC",
+          "list": [
+            "627 Participants",
+            "4,036 Files"
+          ]
+        },
+        {
+          "paragraph": "Head-Neck-PET-CT",
+          "list": [
+            "298 Participants",
+            "2,661 Files"
+          ]
+        },
+        {
+          "paragraph": "Glioma DSC-MRI Perfusion Data with Standard Imaging and ROIs",
+          "list": [
+            "49 Participants",
+            "349 Files"
+          ]
+        },
+        {
+          "paragraph": "QIN-HEADNECK",
+          "list": [
+            "279 Participants",
+            "3,837 Files"
+          ]
+        },
+        {
+          "paragraph": "The Cancer Genome Atlas Glioblastoma Multiforme Collection",
+          "list": [
+            "262 Participants",
+            "5,256 Files"
+          ]
+        },
+        {
+          "paragraph": "CT-RTSTRUCT-RTDOSE-RTPLAN Sets of Head and Neck Cancers Treated with Identical Prescriptions using IMRT: An Open Dataset for Deep Learning in Treatment Planning",
+          "list": [
+            "211 Participants",
+            "844 Files"
+          ]
+        },
+        {
+          "paragraph": "The Rio Hortega University Hospital Glioblastoma dataset: a comprehensive collection of preoperative, early postoperative and recurrence MRI scans",
+          "list": [
+            "40 Participants",
+            "600 Files"
+          ]
+        },
+        {
+          "paragraph": "Ivy Glioblastoma Atlas Project",
+          "list": [
+            "39 Participants",
+            "5,223 Files"
+          ]
+        },
+        {
+          "paragraph": "The Cancer Genome Atlas Low Grade Glioma Collection",
+          "list": [
+            "199 Participants",
+            "2,275 Files"
+          ]
+        },
+        {
+          "paragraph": "AAPM RT-MAC Grand Challenge 2019",
+          "list": [
+            "55 Participants",
+            "110 Files"
+          ]
+        },
+        {
+          "paragraph": "REMBRANDT",
+          "list": [
+            "130 Participants",
+            "1,483 Files"
+          ]
+        },
+        {
+          "paragraph": "The Head and Neck Lymph Nodes Dataset, Definitive, Non-contrast",
+          "list": [
+            "46 Participants",
+            "92 Files"
+          ]
+        },
+        {
+          "paragraph": "ACRIN 6677/RTOG 0625",
+          "list": [
+            "123 Participants",
+            "7,629 Files"
+          ]
+        },
+        {
+          "paragraph": "ACRIN 6685",
+          "list": [
+            "260 Participants",
+            "3,358 Files"
+          ]
+        },
+        {
+          "paragraph": "Low-Dose CT Images of Healthy Cohort",
+          "list": [
+            "30 Participants",
+            "135 Files"
+          ]
+        },
+        {
+          "paragraph": "Anti-PD-1 Immunotherapy Melanoma",
+          "list": [
+            "47 Participants",
+            "1,814 Files"
+          ]
+        },
+        {
+          "paragraph": "Burdenko's Glioblastoma Progression Dataset",
+          "list": [
+            "180 Participants",
+            "4,956 Files"
+          ]
+        },
+        {
+          "paragraph": "ACRIN 6684",
+          "list": [
+            "45 Participants",
+            "4,728 Files"
+          ]
+        },
+        {
+          "paragraph": "The Cancer Genome Atlas Head-Neck Squamous Cell Carcinoma Collection",
+          "list": [
+            "227 Participants",
+            "2,561 Files"
+          ]
+        },
+        {
+          "paragraph": "LGG-1p19qDeletion",
+          "list": [
+            "159 Participants",
+            "478 Files"
+          ]
+        },
+        {
+          "paragraph": "Low Dose CT Image and Projection Data",
+          "list": [
+            "99 Participants",
+            "347 Files"
+          ]
+        },
+        {
+          "paragraph": "The Clinical Proteomic Tumor Analysis Consortium Glioblastoma Multiforme Collection",
+          "list": [
+            "70 Participants",
+            "1,835 Files"
+          ]
+        },
+        {
+          "paragraph": "RIDER NEURO MRI",
+          "list": [
+            "19 Participants",
+            "368 Files"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v22.0",
       "versionNumber": "v22.0",
       "releaseDate": "December 17, 2025",
@@ -11,8 +272,8 @@
         {
           "paragraph": "Health Information National Trends Survey-SEER (HINTS-SEER) - phs004065.v1.p1",
           "list": [
-            "11 Files",
-            "1,234 Participants"
+            "1,234 Participants",
+            "11 Files"
           ]
         }
       ]
