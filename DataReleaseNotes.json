@@ -2,6 +2,21 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v24.0",
+      "versionNumber": "v24.0",
+      "releaseDate": "March 11, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 24.0",
+      "content": [
+        {
+          "paragraph": "Legacy cancer Nanotechnology Laboratory - This collection consolidates all data formerly available in the caNano portal, which supported data sharing within the international biomedical nanotechnology research community. It includes annotated nanomaterials with physicochemical, in vitro, and in vivo characterizations, along with associated protocols, samples, and publications, enabling continued access to curated nanotechnology research data files.",
+          "list": [
+            "8,392 Files"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v23.0",
       "versionNumber": "v23.0",
       "releaseDate": "February 20, 2026",
