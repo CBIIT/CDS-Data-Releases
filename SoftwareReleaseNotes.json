@@ -31,18 +31,18 @@
                     ]
                   },
                   "Added advanced sub-filters for improved data refinement for nanotechnology",
-                  "Implemented custom donut chart behavior for enhanced visualization and interaction."
+                  "Implemented custom donut chart behavior for enhanced visualization and interaction"
                 ]
               },
-              "Backend Query Updates for Nano Categories Updated backend queries to fully support new nanotechnology categories and advanced filters.",
+              "Backend Query Updates for Nano Categories Updated backend queries to fully support new nanotechnology categories and advanced filters",
               "Implemented Protocol tab that resolves DOIs on the DOI site"
             ]
           },
           {
             "paragraph": "Bug Fixes:",
             "list": [
-              "Query logic updated to accurately reflect the relationship between samples and diagnoses, improving data accuracy and reporting consistency.",
-              "Updated participant file processing to use study_participant_id, improving data consistency and traceability."
+              "Query logic updated to accurately reflect the relationship between samples and diagnoses, improving data accuracy and reporting consistency",
+              "Updated participant file processing to use study_participant_id, improving data consistency and traceability"
             ]
           }
         ]
