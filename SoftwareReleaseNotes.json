@@ -2,6 +2,52 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.7.0",
+        "versionNumber": "v4.7.0",
+        "heading": "Software Release: GC 4.7.0",
+        "releaseDate": "March 11, 2026",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.7.0",
+          "Build Details:",
+          "FE Version: 4.7.0.24",
+          "BE Version: 4.7.0.24"
+        ],
+        "content": [
+          {
+            "paragraph": "New Supported Features:",
+            "list": [
+              "Integrated cancer Nanotechnology data into the General Commons - 10.17917",
+              "Implemented study accession to DOI-based identifiers for open access data",
+              {
+                "paragraph": "Nanotechnology Categories & Advanced Filtering",
+                "list": [
+                  {
+                    "paragraph": "Introduced structured Nanotechnology Categories",
+                    "list": [
+                      "Protocols",
+                      "Publications",
+                      "Characterizations",
+                      "Composition"
+                    ]
+                  },
+                  "Added advanced sub-filters for improved data refinement for nanotechnology",
+                  "Implemented custom donut chart behavior for enhanced visualization and interaction"
+                ]
+              },
+              "Backend Query Updates for Nano Categories Updated backend queries to fully support new nanotechnology categories and advanced filters",
+              "Implemented Protocol tab that resolves DOIs on the DOI site"
+            ]
+          },
+          {
+            "paragraph": "Bug Fixes:",
+            "list": [
+              "Query logic updated to accurately reflect the relationship between samples and diagnoses, improving data accuracy and reporting consistency",
+              "Updated participant file processing to use study_participant_id, improving data consistency and traceability"
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.6.0",
         "versionNumber": "v4.6.0",
         "heading": "Software Release: GC 4.6.0",
