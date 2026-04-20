@@ -2,6 +2,142 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v26.0",
+      "versionNumber": "v26.0",
+      "releaseDate": "April 22, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 26.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Sarcoma, Kidney, and Liver Cancers - phs003160.v1.p1",
+          "list": [
+            "53 Participants",
+            "4,439 Files",
+            "370 Samples"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 4 Cycle 2 - phs004207.v1.p1",
+          "list": [
+            "3,630 Participants",
+            "9 Files"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 4 Cycle 3 - phs004208.v1.p1",
+          "list": [
+            "3,185 Participants",
+            "10 Files"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 4 Cycle 4 - phs004209.v1.p1",
+          "list": [
+            "3,677 Participants",
+            "10 Files"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 5 Cycle 1 - phs004210.v1.p1",
+          "list": [
+            "3,285 Participants",
+            "12 Files"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 4 Cycle 1 - phs004212.v1.p1",
+          "list": [
+            "3,959 Participants",
+            "7 Files"
+          ]
+        },
+        {
+          "paragraph": "HINTS Data Linkage Project 2024 (HINTS 7) - phs004213.v1.p1",
+          "list": [
+            "7,278 Participants",
+            "11 Files"
+          ]
+        },
+        {
+          "paragraph": "HINTS Data Linkage Project 2022 (HINTS 6) - phs004214.v1.p1",
+          "list": [
+            "6,252 Participants",
+            "11 Files"
+          ]
+        },
+        {
+          "paragraph": "HINTS Data Linkage Project 2020 (HINTS 5 Cycle 4) - phs004215.v1.p1",
+          "list": [
+            "3,865 Participants",
+            "11 Files"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 5 Cycle 3 - phs004216.v1.p1",
+          "list": [
+            "5,438 Participants",
+            "13 Files"
+          ]
+        },
+        {
+          "paragraph": "Health Information National Trends Survey (HINTS) 5 Cycle 2 - phs004217.v1.p1",
+          "list": [
+            "3,504 Participants",
+            "12 Files"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v25.0",
+      "versionNumber": "v25.0",
+      "releaseDate": "March 18, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 25.0",
+      "content": [
+        {
+          "paragraph": "Gabriella Miller Kids First (GMKF) Pediatric Research Program in Susceptibility to Ewing Sarcoma Based on Germline Risk and Familial History of Cancer - phs001228",
+          "list": [
+            "1,287 Participants",
+            "49,518 Files",
+            "1,460 Samples"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Genetics at the Intersection of Childhood Cancer and Birth Defects - phs001846",
+          "list": [
+            "1,776 Participants",
+            "26,788 Files",
+            "1,776 Samples"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Germline and Somatic Variants in Myeloid Malignancies in Children - phs002187",
+          "list": [
+            "60 Participants",
+            "3,342 Files",
+            "119 Samples"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program: An Integrated Clinical and Genomic Analysis of Treatment Failure in Pediatric Osteosarcoma - phs001714",
+          "list": [
+            "84 Participants",
+            "12,727 Files",
+            "311 Samples"
+          ]
+        },
+        {
+          "paragraph": "Kids First Pediatric Research Study in Familial Predisposition to Hematopoietic Malignancies - phs001738",
+          "list": [
+            "185 Participants",
+            "4,728 Files",
+            "192 Samples"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v24.0",
       "versionNumber": "v24.0",
       "releaseDate": "March 11, 2026",
