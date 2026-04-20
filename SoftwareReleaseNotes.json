@@ -2,28 +2,6 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
-        "id": "GC 4.7.1",
-        "versionNumber": "v4.7.1",
-        "heading": "Software Release: GC 4.7.1",
-        "releaseDate": "April 22, 2026",
-        "subHeadings": [
-          "Release Notes - General Commons – Version GC FE Version: 4.7.1",
-          "Build Details:",
-          "FE Version: 4.7.1.4",
-          "BE Version: 4.7.1.4"
-        ],
-        "content": [
-          {
-            "paragraph": "Bug Fixes and Improvements:",
-            "list": [
-              "Study Detail Page – Add Files Button: Resolved an issue where the \"Add Files\" button was not functioning as expected. The button now correctly displays the pop-up message indicating the 1000-file selection limit, consistent with behavior on the Participants, Samples, and Files tabs within the Data page.",
-              "Cart Page – Download Manifest Formatting: Fixed a formatting issue causing misaligned columns in the downloaded manifest file. This was due to study data types being returned as a list from the backend and written as comma-separated values in the CSV. The frontend has been updated to properly format these lists as quoted strings, ensuring correct column alignment.",
-              "caNano Protocol Query (GraphQL): Updated the GraphQL query for protocol-level caNano data. Previously, protocols were not being associated or returned. The query now correctly retrieves and associates protocol data for caNano."
-            ]
-          }
-        ]
-      },
-      {
         "id": "GC 4.7.0",
         "versionNumber": "v4.7.0",
         "heading": "Software Release: GC 4.7.0",
