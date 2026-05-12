@@ -2,6 +2,73 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v27.0",
+      "versionNumber": "v27.0",
+      "releaseDate": "May 13, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 27.0",
+      "content": [
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) imaging data - phs002371_image",
+          "list": [
+            "306 Participants",
+            "3,172 Files",
+            "1,222 Samples"
+          ]
+        },
+        {
+          "paragraph": "Human Tumor Atlas Network (HTAN) primary sequencing data - phs002371.v9.p2",
+          "list": [
+            "224 Participants",
+            "7,468 Files",
+            "1,307 Samples"
+          ]
+        },
+        {
+          "paragraph": "CCDI Texas Pediatric Patient Derived Xenograft - phs003215.v1.p1",
+          "list": [
+            "51 Participants",
+            "620 Files",
+            "362 Samples"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Novel Cancer Susceptibility in Families (from BASIC3) - phs001878.v2.p1",
+          "list": [
+            "611 Participants",
+            "7,353 Files",
+            "276 Samples"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First: Genetic Predisposition to Intracranial Germ Cell Tumors - phs002322.v2.p1",
+          "list": [
+            "356 Participants",
+            "10,667 Files",
+            "358 Samples"
+          ]
+        },
+        {
+          "paragraph": "Data updates:",
+          "list": [
+            {
+              "paragraph": "Radiology Imaging Data Containing Faces from The Cancer Imaging Archive - phs004225.v1.p1",
+              "list": [
+                "Deletion: Dataset removed from the General Commons"
+              ]
+            },
+            {
+              "paragraph": "QIN-SARCOMA",
+              "list": [
+                "15 Participants",
+                "2,168 Files"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "v26.0",
       "versionNumber": "v26.0",
       "releaseDate": "April 22, 2026",
