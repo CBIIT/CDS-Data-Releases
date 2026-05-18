@@ -2,6 +2,23 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.7.2",
+        "versionNumber": "v4.7.2",
+        "heading": "Software Release: GC 4.7.2",
+        "releaseDate": "May 13, 2026",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.7.2",
+          "Build Details:",
+          "FE Version: 4.7.2.5",
+          "BE Version: 4.7.2.5"
+        ],
+        "content": [
+          {
+            "paragraph": "Version 4.7.2 delivers important security improvements and vulnerability remediations designed to strengthen platform protection, improve system stability, and reduce exposure to unauthorized access risks."
+          }
+        ]
+      },
+      {
         "id": "GC 4.7.1",
         "versionNumber": "v4.7.1",
         "heading": "Software Release: GC 4.7.1",
