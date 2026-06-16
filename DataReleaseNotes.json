@@ -2,6 +2,22 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v28.0",
+      "versionNumber": "v28.0",
+      "releaseDate": "June 17, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 28.0",
+      "content": [
+        {
+          "paragraph": "Legacy cancer Nanotechnology Laboratory - 10.17917\n\nUpdated metadata for the following publications to include more details:",
+          "list": [
+            "Exploiting lymphatic transport and complement activation in nanoparticle vaccines",
+            "Light-activatable liposomes for repetitive on-demand drug release and immunopotentiation in hypoxic tumor therapy"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v27.0",
       "versionNumber": "v27.0",
       "releaseDate": "May 13, 2026",
@@ -54,14 +70,18 @@
             {
               "paragraph": "Radiology Imaging Data Containing Faces from The Cancer Imaging Archive - phs004225.v1.p1",
               "list": [
-                "Deletion: Dataset removed from the General Commons"
-              ]
-            },
-            {
-              "paragraph": "QIN-SARCOMA",
-              "list": [
-                "15 Participants",
-                "2,168 Files"
+                {
+                  "paragraph": "Deletion: Dataset removed from the General Commons",
+                  "list": [
+                    {
+                      "paragraph": "QIN-SARCOMA",
+                      "list": [
+                        "15 Participants",
+                        "2,168 Files"
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ]
