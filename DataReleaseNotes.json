@@ -54,14 +54,18 @@
             {
               "paragraph": "Radiology Imaging Data Containing Faces from The Cancer Imaging Archive - phs004225.v1.p1",
               "list": [
-                "Deletion: Dataset removed from the General Commons"
-              ]
-            },
-            {
-              "paragraph": "QIN-SARCOMA",
-              "list": [
-                "15 Participants",
-                "2,168 Files"
+                {
+                  "paragraph": "Deletion: Dataset removed from the General Commons",
+                  "list": [
+                    {
+                      "paragraph": "QIN-SARCOMA",
+                      "list": [
+                        "15 Participants",
+                        "2,168 Files"
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ]
