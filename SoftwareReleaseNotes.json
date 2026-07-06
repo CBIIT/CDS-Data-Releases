@@ -2,15 +2,15 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
-        "id": "GC 4.8.0",
-        "versionNumber": "v4.8.0",
-        "heading": "Software Release: GC 4.8.0",
+        "id": "GC 4.7.3",
+        "versionNumber": "v4.7.3",
+        "heading": "Software Release: GC 4.7.3",
         "releaseDate": "July 7, 2026",
         "subHeadings": [
-          "Release Notes - General Commons – Version GC FE Version: 4.8.0",
+          "Release Notes - General Commons – Version GC FE Version: 4.7.3",
           "Build Details:",
-          "FE Version: 4.8.0.10",
-          "BE Version: 4.8.0.10"
+          "FE Version: 4.7.3.3",
+          "BE Version: 4.7.3.3"
         ],
         "content": [
           {
