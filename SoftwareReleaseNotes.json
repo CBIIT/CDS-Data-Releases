@@ -2,6 +2,23 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.8.0",
+        "versionNumber": "v4.8.0",
+        "heading": "Software Release: GC 4.8.0",
+        "releaseDate": "July 7, 2026",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.8.0",
+          "Build Details:",
+          "FE Version: 4.8.0.10",
+          "BE Version: 4.8.0.10"
+        ],
+        "content": [
+          {
+            "paragraph": "Upgraded Memgraph from version 3.2.1 to version 3.10.2.\nBenefits - Includes the latest bug fixes, performance improvements, and stability enhancements available in Memgraph 3.10.2."
+          }
+        ]
+      },
+      {
         "id": "GC 4.7.2",
         "versionNumber": "v4.7.2",
         "heading": "Software Release: GC 4.7.2",
