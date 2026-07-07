@@ -14,7 +14,7 @@
         ],
         "content": [
           {
-            "paragraph": "Upgraded Memgraph from v3.2.1 to v3.10.2.\nBenefits - Includes the latest bug fixes, performance improvements, and stability enhancements available in Memgraph 3.10.2."
+            "paragraph": "Upgraded Memgraph from v3.2.1 to v3.10.2.\nBenefits - Includes the latest bug fixes, performance improvements, and stability enhancements available in Memgraph v3.10.2."
           }
         ]
       },
