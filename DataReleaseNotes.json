@@ -2,6 +2,43 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v29.0",
+      "versionNumber": "v29.0",
+      "releaseDate": "July 15, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 29.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Neuroblastoma - phs003163.v1.p1 - Existing study update",
+          "list": [
+            "2 Files"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Pediatric In Vivo Testing Program - Sarcoma, Kidney, and Liver Cancers - phs003160.v1.p1 - Existing study update",
+          "list": [
+            "2 Files"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Genomic Sequencing of Pediatric Rhabdomyosarcoma - phs000720.v5.p1",
+          "list": [
+            "403 Participants",
+            "680 Files",
+            "403 Samples"
+          ]
+        },
+        {
+          "paragraph": "Characterization of tumor immune microenvironment in HPV-associated oropharynx cancer - phs003089.v1.p1",
+          "list": [
+            "735 Participants",
+            "883 Files",
+            "735 Samples"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v28.0",
       "versionNumber": "v28.0",
       "releaseDate": "June 17, 2026",
@@ -9,7 +46,7 @@
       "heading": "Data Release 28.0",
       "content": [
         {
-          "paragraph": "Legacy cancer Nanotechnology Laboratory - 10.17917\nUpdated metadata for the following publications to include more details:",
+          "paragraph": "Legacy caNanoLab - 10.17917\nUpdated metadata for the following publications to include more details:",
           "list": [
             "Exploiting lymphatic transport and complement activation in nanoparticle vaccines",
             "Light-activatable liposomes for repetitive on-demand drug release and immunopotentiation in hypoxic tumor therapy"
@@ -232,7 +269,7 @@
       "heading": "Data Release 24.0",
       "content": [
         {
-          "paragraph": "Legacy cancer Nanotechnology Laboratory - This collection consolidates all data formerly available in the caNano portal, which supported data sharing within the international biomedical nanotechnology research community. It includes annotated nanomaterials with physicochemical, in vitro, and in vivo characterizations, along with associated protocols, samples, and publications, enabling continued access to curated nanotechnology research data files. - 10.17917",
+          "paragraph": "Legacy caNanoLab - This collection consolidates all data formerly available in the caNano portal, which supported data sharing within the international biomedical nanotechnology research community. It includes annotated nanomaterials with physicochemical, in vitro, and in vivo characterizations, along with associated protocols, samples, and publications, enabling continued access to curated nanotechnology research data files. - 10.17917",
           "list": [
             "8,392 Files",
             "1,672 Samples"

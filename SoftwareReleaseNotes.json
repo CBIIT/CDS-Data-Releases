@@ -2,6 +2,31 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.7.3",
+        "versionNumber": "v4.7.3",
+        "heading": "Software Release: GC 4.7.3",
+        "releaseDate": "July 15, 2026",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.7.3",
+          "Build Details:",
+          "FE Version: 4.7.3.7",
+          "BE Version: 4.7.3.7"
+        ],
+        "content": [
+          {
+            "list": [
+              {
+                "paragraph": "Upgraded Memgraph from v3.2.1 to v3.10.1.",
+                "list": [
+                  "Benefits - Includes the latest bug fixes, performance improvements, and stability enhancements available in Memgraph 3.10.1."
+                ]
+              },
+              "Bug resolved on diagnosis node where primary diagnoses were duplicated."
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.7.2",
         "versionNumber": "v4.7.2",
         "heading": "Software Release: GC 4.7.2",
