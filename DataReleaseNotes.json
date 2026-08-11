@@ -2,6 +2,44 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v30.0",
+      "versionNumber": "v30.0",
+      "releaseDate": "August 19, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 30.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Genomic Analysis in Pediatric Malignancies - phs002430.v1.p1 - Existing study update",
+          "list": [
+            "8 Participants",
+            "11 Samples"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): UCSF Database for the Advancement of JMML - Integration of Metadata with \"Omic\" Data - phs002504.v1.p1 - Existing study update",
+          "list": [
+            "34 Participants",
+            "97 Files",
+            "117 Samples"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Integrating Longitudinal Clinical, Sociodemographic and Genomic Data into the NCCR - phs002677.v1.p1 - Existing study update",
+          "list": [
+            "835 Samples"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Metastatic Osteosarcoma Spatial Profiling - phs003975.v1.p1",
+          "list": [
+            "8 Participants",
+            "244 Files",
+            "10 Samples"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v29.0",
       "versionNumber": "v29.0",
       "releaseDate": "July 15, 2026",
