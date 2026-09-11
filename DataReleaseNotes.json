@@ -2,6 +2,61 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v31.0",
+      "versionNumber": "v31.0",
+      "releaseDate": "September 16, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 31.0",
+      "content": [
+        {
+          "paragraph": "Using Genomics to Reduce Breast Cancer Disparities in the African Diaspora - phs001687.v1.p1",
+          "list": [
+            "196 Participants",
+            "1,168 Files",
+            "612 Samples"
+          ]
+        },
+        {
+          "paragraph": "Feasibility and Clinical Utility of Whole Genome Profiling in Pediatric and Young Adult Cancers - phs002620.v2.p2 - Existing study update",
+          "list": [
+            "113 Participants",
+            "652 Files",
+            "326 Samples"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Free the Data: Open Sharing of Comprehensive Genomic Childhood Cancer Datasets (Kansas) - phs002529.v2.p1 - Existing study update",
+          "list": [
+            "7 Participants",
+            "37 Files",
+            "392 Samples"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Enhancement of Data Sharing in Pediatric, Adolescent and Young Adult Cancers - phs002431.v1.p1 - Existing study update",
+          "list": [
+            "611 Participants",
+            "15 Files",
+            "1,448 Samples"
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Clonal Evolution During Metastatic Spread in High-Risk Neuroblastoma - phs003111.v2.p2 - Existing study update",
+          "list": [
+            "129 Participants",
+            "2,170 Files",
+            "432 Samples"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Genetics at the Intersection of Childhood Cancer and Birth Defects - phs001846.v1.p1",
+          "list": [
+            "Genomic information metadata update on the study."
+          ]
+        }
+      ]
+    },
+    {
       "id": "v30.0",
       "versionNumber": "v30.0",
       "releaseDate": "August 19, 2026",
