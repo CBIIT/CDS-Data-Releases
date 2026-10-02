@@ -2,6 +2,29 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v32.0",
+      "versionNumber": "v32.0",
+      "releaseDate": "October 14, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 32.0",
+      "content": [
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI): Integration of genomic and clinical data from unique rare cancer datasets to facilitate data sharing - phs002517.v5.p3",
+          "list": [
+            "4,033 Participants",
+            "475,759 Files",
+            "9,457 Samples"
+          ]
+        },
+        {
+          "paragraph": "Characterization of tumor immune microenvironment in HPV-associated oropharynx cancer - phs003089.v1.p1 - update",
+          "list": [
+            "3 Files"
+          ]
+        }
+      ]
+    },
+    {
       "id": "v31.0",
       "versionNumber": "v31.0",
       "releaseDate": "September 16, 2026",
