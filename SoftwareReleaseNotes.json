@@ -2,6 +2,34 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.8.0",
+        "versionNumber": "v4.8.0",
+        "heading": "Software Release: GC 4.8.0",
+        "releaseDate": "October 14, 2026",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.8.0",
+          "Build Details:",
+          "FE Version: 4.8.0.22",
+          "BE Version: 4.8.0.22"
+        ],
+        "content": [
+          {
+            "list": [
+              "Data Access Filter - Added a new Data Access filter to the Data Page search panel, making it easier to refine search results based on data access criteria.",
+              "Expanded Global Search - Enhanced Global Search to include protocols and samples, providing broader search coverage and easier access to relevant content.",
+              "Program Name in Studies Listing - Added a Program Name column to the Studies Listing page, allowing users to quickly identify the program associated with each study.",
+              "Data Model Navigator - Updated the Data Model page with a new Model Navigator to improve navigation and make it easier to explore the data model."
+            ]
+          },
+          {
+            "paragraph": "Security & Platform Updates",
+            "list": [
+              "This release also addresses identified vulnerabilities and strengthens the underlying application platform."
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.7.4",
         "versionNumber": "v4.7.4",
         "heading": "Software Release: GC 4.7.4",
