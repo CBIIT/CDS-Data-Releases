@@ -2,29 +2,6 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
-      "id": "v32.0",
-      "versionNumber": "v32.0",
-      "releaseDate": "October 14, 2026",
-      "subHeadings": ["Studies"],
-      "heading": "Data Release 32.0",
-      "content": [
-        {
-          "paragraph": "Childhood Cancer Data Initiative (CCDI): Integration of genomic and clinical data from unique rare cancer datasets to facilitate data sharing - phs002517.v5.p3",
-          "list": [
-            "4,033 Participants",
-            "475,759 Files",
-            "9,457 Samples"
-          ]
-        },
-        {
-          "paragraph": "Mutational landscape in recurrent and metastatic cervical carcinoma - phs002293.v1.p1 - missing files update",
-          "list": [
-            "3 Files"
-          ]
-        }
-      ]
-    },
-    {
       "id": "v31.0",
       "versionNumber": "v31.0",
       "releaseDate": "September 16, 2026",
