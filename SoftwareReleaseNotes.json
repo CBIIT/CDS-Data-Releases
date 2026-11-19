@@ -2,6 +2,28 @@
     "HEADING": "Release Notes",
     "VERSIONS": [
       {
+        "id": "GC 4.9.0",
+        "versionNumber": "v4.9.0",
+        "heading": "Software Release: GC 4.9.0",
+        "releaseDate": "November 24, 2026",
+        "subHeadings": [
+          "Release Notes - General Commons – Version GC FE Version: 4.9.0",
+          "Build Details:",
+          "FE Version: 4.9.0",
+          "BE Version: 4.9.0"
+        ],
+        "content": [
+          {
+            "list": [
+              "Updated program classifications: Removed DCCPS as a program in GC. Associated studies are now classified under CIDR, HINTS, or Not Applicable.",
+              "Added program filtering: Users can now filter by program when searching for data on the Data Explore page.",
+              "Improved cart usability: Enhanced the “Remove All” button on the Cart page for a smoother user experience.",
+              "Standardized study accession labels: Made study accession labels consistent across all GC pages."
+            ]
+          }
+        ]
+      },
+      {
         "id": "GC 4.8.0",
         "versionNumber": "v4.8.0",
         "heading": "Software Release: GC 4.8.0",
