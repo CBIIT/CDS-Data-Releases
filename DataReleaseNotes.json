@@ -2,6 +2,78 @@
   "HEADING": "Release Notes",
   "VERSIONS": [
     {
+      "id": "v32.0",
+      "versionNumber": "v32.0",
+      "releaseDate": "November 24, 2026",
+      "subHeadings": ["Studies"],
+      "heading": "Data Release 32.0",
+      "content": [
+        {
+          "paragraph": "Mutational landscape in recurrent and metastatic cervical carcinoma - phs002293.v1.p1 - missing files update",
+          "list": [
+            "3 Files"
+          ]
+        },
+        {
+          "paragraph": "Gabriella Miller Kids First Pediatric Research Program in Genetics at the Intersection of Childhood Cancer and Birth Defects - phs001846.v1.p1",
+          "list": [
+            "Genomic information metadata update on the study."
+          ]
+        },
+        {
+          "paragraph": "Childhood Cancer Data Initiative (CCDI) - Discovering the Timing and Origins of Bone and Soft Tissue Cancers - phs002827.v1.p1",
+          "list": [
+            "310 Participants",
+            "20,597 Files",
+            "1,143 Samples"
+          ]
+        },
+        {
+          "paragraph": "Studies under Division of Cancer Control and Population Sciences (DCCPS) program removed and reclassified to CIDR, HINTS, and Not Applicable",
+          "list": [
+            {
+              "paragraph": "Center for Inherited Disease Research (CIDR)",
+              "list": [
+                "CIDR: Discovery, Biology, and Risk of Inherited Variants in Glioma - phs002250.v1.p1",
+                "The Role of Rare Coding Variation in Prostate Cancer in Men of African Ancestry - RESPOND Project 2 - phs002637.v1.p1",
+                "CIDR: Molecular Pathological Epidemiology of CRC - phs001905.v2.p2",
+                "CIDR: The Genetic Basis of Aggressive Prostate Cancer, The Role of Rare Variation - phs001524.v3.p2"
+              ]
+            },
+            {
+              "paragraph": "Health Information National Trends Survey (HINTS)",
+              "list": [
+                "Health Information National Trends Survey-SEER (HINTS-SEER) - phs004065.v1.p1",
+                "Health Information National Trends Survey (HINTS) 4 Cycle 2 - phs004207.v1.p1",
+                "Health Information National Trends Survey (HINTS) 4 Cycle 3 - phs004208.v1.p1",
+                "Health Information National Trends Survey (HINTS) 4 Cycle 4 - phs004209.v1.p1",
+                "Health Information National Trends Survey (HINTS) 5 Cycle 1 - phs004210.v1.p1",
+                "Health Information National Trends Survey (HINTS) 4 Cycle 1 - phs004212.v1.p1",
+                "HINTS Data Linkage Project 2024 (HINTS 7) - phs004213.v1.p1",
+                "HINTS Data Linkage Project 2022 (HINTS 6) - phs004214.v1.p1",
+                "HINTS Data Linkage Project 2020 (HINTS 5 Cycle 4) - phs004215.v1.p1",
+                "Health Information National Trends Survey (HINTS) 5 Cycle 3 - phs004216.v1.p1",
+                "Health Information National Trends Survey (HINTS) 5 Cycle 2 - phs004217.v1.p1"
+              ]
+            },
+            {
+              "paragraph": "Not Applicable (NA)",
+              "list": [
+                "Detection of Colorectal Cancer Susceptibility Loci Using Genome-Wide Sequencing - phs001554.v1.p1",
+                "Discovery of Colorectal Cancer Susceptibility Genes in High-Risk Families - phs001787.v1.p1",
+                "Lung Cancer Genetic Study among Asian Never Smokers - phs002366.v2.p2",
+                "Whole Genome Sequencing to Discover Familial Myeloma Risk Genes - phs001819.v2.p1",
+                "GECCO OICR: Molecular Pathological Epidemiology of Colorectal Cancer - phs002050.v2.p1",
+                "TCGA WGS Variants Across 18 Cancer Types - phs003155.v1.p1",
+                "LCCC 1108: Development of a Tumor Molecular Analyses Program and Its Use to Support Treatment Decisions (UNCseqTM) - phs001713.v1.p1",
+                "Using Genomics to Reduce Breast Cancer Disparities in the African Diaspora - phs001687.v1.p1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "v31.0",
       "versionNumber": "v31.0",
       "releaseDate": "September 16, 2026",
